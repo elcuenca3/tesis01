@@ -42,6 +42,9 @@ def inicio(request):
 
 	nombre_usuario = request.POST.get('nombre_estudiante')
 
+# def index(request):
+# 	return render(request, 'inicio.html')
+
 	if request.method =='POST':
 		if nombre_usuario != '' and nombre_usuario is not None:
 			if len(nombre_usuario) > 10:
