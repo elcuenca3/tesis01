@@ -9,7 +9,7 @@
             }
         }
     ],
-    "router": [
+    "routers": [
         {
             "src": "/(.*)",
             "dest": "Aplicativo/wsgi.py"
