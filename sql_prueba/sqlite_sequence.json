@@ -1,0 +1,46 @@
+[
+    {
+        "name": "django_migrations",
+        "seq": 46
+    },
+    {
+        "name": "django_admin_log",
+        "seq": 247
+    },
+    {
+        "name": "django_content_type",
+        "seq": 11
+    },
+    {
+        "name": "auth_permission",
+        "seq": 44
+    },
+    {
+        "name": "auth_group",
+        "seq": 0
+    },
+    {
+        "name": "auth_user",
+        "seq": 1
+    },
+    {
+        "name": "Quiz_elegirrespuesta",
+        "seq": 96
+    },
+    {
+        "name": "Quiz_pregunta",
+        "seq": 35
+    },
+    {
+        "name": "Quiz_preguntasrespondidas",
+        "seq": 3284
+    },
+    {
+        "name": "Quiz_comentariousuario",
+        "seq": 13
+    },
+    {
+        "name": "Quiz_quizusuario",
+        "seq": 247
+    }
+]

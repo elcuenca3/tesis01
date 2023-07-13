@@ -1,0 +1,578 @@
+[
+    {
+        "correcta": 1,
+        "id": 1,
+        "pregunta_id": 1,
+        "texto": "Digital Versatile Disk"
+    },
+    {
+        "correcta": 0,
+        "id": 2,
+        "pregunta_id": 1,
+        "texto": "Domestic Versatile Data"
+    },
+    {
+        "correcta": 0,
+        "id": 3,
+        "pregunta_id": 1,
+        "texto": "Digital Video Disc"
+    },
+    {
+        "correcta": 0,
+        "id": 4,
+        "pregunta_id": 2,
+        "texto": "Firmware que hace que un equipo funcione correctamente."
+    },
+    {
+        "correcta": 1,
+        "id": 5,
+        "pregunta_id": 2,
+        "texto": "Software o conjunto de programas que hace que los programas de usuarios funcionen en un hardware determinado."
+    },
+    {
+        "correcta": 0,
+        "id": 6,
+        "pregunta_id": 2,
+        "texto": "Software o hardware que permite que un equipo funcione mínimamente."
+    },
+    {
+        "correcta": 1,
+        "id": 7,
+        "pregunta_id": 3,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 0,
+        "id": 8,
+        "pregunta_id": 3,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 9,
+        "pregunta_id": 4,
+        "texto": "Es un programa que se almacena en la RAM cuando se apaga el equipo."
+    },
+    {
+        "correcta": 0,
+        "id": 10,
+        "pregunta_id": 4,
+        "texto": "Es un programa que se ejecuta si al arrancar el ordenador se pulsa la tecla “del” o “supr”."
+    },
+    {
+        "correcta": 1,
+        "id": 11,
+        "pregunta_id": 4,
+        "texto": "Es un programa que almacena las principales configuraciones del sistema, además permite el arranque de sistema operativo en memoria."
+    },
+    {
+        "correcta": 0,
+        "id": 12,
+        "pregunta_id": 5,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 1,
+        "id": 13,
+        "pregunta_id": 5,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 14,
+        "pregunta_id": 6,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 1,
+        "id": 15,
+        "pregunta_id": 6,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 16,
+        "pregunta_id": 7,
+        "texto": "Resistir la temperatura"
+    },
+    {
+        "correcta": 0,
+        "id": 17,
+        "pregunta_id": 7,
+        "texto": "Almacenar la energía"
+    },
+    {
+        "correcta": 1,
+        "id": 18,
+        "pregunta_id": 7,
+        "texto": "Consumir Potencia"
+    },
+    {
+        "correcta": 1,
+        "id": 19,
+        "pregunta_id": 8,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 0,
+        "id": 20,
+        "pregunta_id": 8,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 1,
+        "id": 21,
+        "pregunta_id": 9,
+        "texto": "Read Only Memory"
+    },
+    {
+        "correcta": 0,
+        "id": 22,
+        "pregunta_id": 9,
+        "texto": "Random Open Memory"
+    },
+    {
+        "correcta": 0,
+        "id": 23,
+        "pregunta_id": 9,
+        "texto": "Read Of Memory"
+    },
+    {
+        "correcta": 1,
+        "id": 24,
+        "pregunta_id": 10,
+        "texto": "Software que contiene el hardware"
+    },
+    {
+        "correcta": 0,
+        "id": 25,
+        "pregunta_id": 10,
+        "texto": "Un acceso a la memoria principal"
+    },
+    {
+        "correcta": 0,
+        "id": 26,
+        "pregunta_id": 10,
+        "texto": "Un conductor de energía"
+    },
+    {
+        "correcta": 1,
+        "id": 27,
+        "pregunta_id": 11,
+        "texto": "Se aplica luz ultravioleta sobre la oblea a través de una plantilla."
+    },
+    {
+        "correcta": 0,
+        "id": 28,
+        "pregunta_id": 11,
+        "texto": "Se aplica electricidad sobre la oblea."
+    },
+    {
+        "correcta": 0,
+        "id": 29,
+        "pregunta_id": 11,
+        "texto": "Se conserva energía en la oblea."
+    },
+    {
+        "correcta": 0,
+        "id": 30,
+        "pregunta_id": 12,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 1,
+        "id": 31,
+        "pregunta_id": 12,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 1,
+        "id": 32,
+        "pregunta_id": 13,
+        "texto": "Conservar los datos de la BIOS cuando el ordenador está apagado."
+    },
+    {
+        "correcta": 0,
+        "id": 33,
+        "pregunta_id": 13,
+        "texto": "Conserva los datos de la BIOS cuando el ordenador está encendido."
+    },
+    {
+        "correcta": 0,
+        "id": 34,
+        "pregunta_id": 13,
+        "texto": "Eliminar los datos de la BIOS."
+    },
+    {
+        "correcta": 0,
+        "id": 35,
+        "pregunta_id": 14,
+        "texto": "El elemento del equipo que envía al mouse la información que debe salir por la BIOS."
+    },
+    {
+        "correcta": 1,
+        "id": 36,
+        "pregunta_id": 14,
+        "texto": "El elemento del equipo que envía al monitor la información que debe salir por pantalla."
+    },
+    {
+        "correcta": 0,
+        "id": 37,
+        "pregunta_id": 14,
+        "texto": "El elemento del equipo que envía al teclado mouse la información que debe salir por la CPU."
+    },
+    {
+        "correcta": 1,
+        "id": 38,
+        "pregunta_id": 15,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 0,
+        "id": 39,
+        "pregunta_id": 15,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 40,
+        "pregunta_id": 16,
+        "texto": "Growing Power Unit"
+    },
+    {
+        "correcta": 0,
+        "id": 41,
+        "pregunta_id": 16,
+        "texto": "Graphics Power Unit"
+    },
+    {
+        "correcta": 1,
+        "id": 42,
+        "pregunta_id": 16,
+        "texto": "Graphics Processing Unit"
+    },
+    {
+        "correcta": 1,
+        "id": 43,
+        "pregunta_id": 17,
+        "texto": "Conectarlos a un dispositivo, periférico, o añadir algún componente interno para mejorar nuestro equipo computacional."
+    },
+    {
+        "correcta": 0,
+        "id": 44,
+        "pregunta_id": 17,
+        "texto": "Conectar únicamente el BIOS."
+    },
+    {
+        "correcta": 0,
+        "id": 45,
+        "pregunta_id": 17,
+        "texto": "Conectar únicamente dispositivos externos."
+    },
+    {
+        "correcta": 1,
+        "id": 46,
+        "pregunta_id": 18,
+        "texto": "Basic Input Output System"
+    },
+    {
+        "correcta": 0,
+        "id": 47,
+        "pregunta_id": 18,
+        "texto": "Basic Input System Output"
+    },
+    {
+        "correcta": 0,
+        "id": 48,
+        "pregunta_id": 18,
+        "texto": "System Output Input Basic"
+    },
+    {
+        "correcta": 1,
+        "id": 49,
+        "pregunta_id": 19,
+        "texto": "Un circuito integrado con las características de interpretación y ejecución de datos."
+    },
+    {
+        "correcta": 0,
+        "id": 50,
+        "pregunta_id": 19,
+        "texto": "Un circuito integrado donde se almacena datos."
+    },
+    {
+        "correcta": 0,
+        "id": 51,
+        "pregunta_id": 19,
+        "texto": "Una matriz de transistores que regula el flujo de corriente como un interruptor o amplificador."
+    },
+    {
+        "correcta": 0,
+        "id": 52,
+        "pregunta_id": 20,
+        "texto": "Madera"
+    },
+    {
+        "correcta": 1,
+        "id": 53,
+        "pregunta_id": 20,
+        "texto": "Silicio"
+    },
+    {
+        "correcta": 0,
+        "id": 54,
+        "pregunta_id": 20,
+        "texto": "Silicato"
+    },
+    {
+        "correcta": 1,
+        "id": 55,
+        "pregunta_id": 21,
+        "texto": "Un circuito lógico que responde y procesa las operaciones lógicas y aritméticas que hacen funcionar a nuestras computadoras."
+    },
+    {
+        "correcta": 0,
+        "id": 56,
+        "pregunta_id": 21,
+        "texto": "Es un sistema de protección del contenido digital de elevado ancho de banda."
+    },
+    {
+        "correcta": 0,
+        "id": 57,
+        "pregunta_id": 21,
+        "texto": "Se encarga de conservar los datos de la BIOS."
+    },
+    {
+        "correcta": 1,
+        "id": 58,
+        "pregunta_id": 22,
+        "texto": "Gestiona y controla el funcionamiento de todos los dispositivos de tu ordenador. En ella o van conectados los elementos directamente o los que no están conectados en ella directamente van conectados a ella a través de los Buses (cables)."
+    },
+    {
+        "correcta": 0,
+        "id": 59,
+        "pregunta_id": 22,
+        "texto": "Se encarga de almacenar los datos de la pila."
+    },
+    {
+        "correcta": 0,
+        "id": 60,
+        "pregunta_id": 22,
+        "texto": "Gestiona la energía de los condensadores."
+    },
+    {
+        "correcta": 0,
+        "id": 61,
+        "pregunta_id": 23,
+        "texto": "Costo de fabricación, sincronización y el voltaje de consumo."
+    },
+    {
+        "correcta": 0,
+        "id": 62,
+        "pregunta_id": 23,
+        "texto": "El tamaño, velocidad y el voltaje de consumo."
+    },
+    {
+        "correcta": 1,
+        "id": 63,
+        "pregunta_id": 23,
+        "texto": "La sincronización, trabajo en ráfagas y organización de celdas independientes."
+    },
+    {
+        "correcta": 0,
+        "id": 64,
+        "pregunta_id": 24,
+        "texto": "DIP y TSOP"
+    },
+    {
+        "correcta": 0,
+        "id": 65,
+        "pregunta_id": 24,
+        "texto": "sTSOP y SOJ"
+    },
+    {
+        "correcta": 1,
+        "id": 66,
+        "pregunta_id": 24,
+        "texto": "MCP y PoP"
+    },
+    {
+        "correcta": 1,
+        "id": 67,
+        "pregunta_id": 25,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 0,
+        "id": 68,
+        "pregunta_id": 25,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 69,
+        "pregunta_id": 26,
+        "texto": "La BIOS"
+    },
+    {
+        "correcta": 0,
+        "id": 70,
+        "pregunta_id": 26,
+        "texto": "Ranuras de memoria"
+    },
+    {
+        "correcta": 1,
+        "id": 71,
+        "pregunta_id": 26,
+        "texto": "Zócalo"
+    },
+    {
+        "correcta": 0,
+        "id": 72,
+        "pregunta_id": 27,
+        "texto": "DDR4"
+    },
+    {
+        "correcta": 1,
+        "id": 73,
+        "pregunta_id": 27,
+        "texto": "DDR3"
+    },
+    {
+        "correcta": 0,
+        "id": 74,
+        "pregunta_id": 27,
+        "texto": "Para todo tipo de memoria."
+    },
+    {
+        "correcta": 0,
+        "id": 75,
+        "pregunta_id": 28,
+        "texto": "Mejorar la interfaz gráfica, a través de su diseño modular, personalizable con la finalidad de no generar carga en el sistema operativo."
+    },
+    {
+        "correcta": 0,
+        "id": 76,
+        "pregunta_id": 28,
+        "texto": "Administrar el espacio del disco duro, la memoria RAM con la finalidad de organizar la información que se genera en el ordenador."
+    },
+    {
+        "correcta": 1,
+        "id": 77,
+        "pregunta_id": 28,
+        "texto": "Controlar muchas funciones del ordenador como la interacción del microprocesador con la memoria, control de puertos internos y externos, tarjeta de sonido, controlador de red, entre otros."
+    },
+    {
+        "correcta": 1,
+        "id": 78,
+        "pregunta_id": 29,
+        "texto": "AGP"
+    },
+    {
+        "correcta": 0,
+        "id": 79,
+        "pregunta_id": 29,
+        "texto": "PCI"
+    },
+    {
+        "correcta": 0,
+        "id": 80,
+        "pregunta_id": 29,
+        "texto": "MCA"
+    },
+    {
+        "correcta": 0,
+        "id": 81,
+        "pregunta_id": 30,
+        "texto": "IDE"
+    },
+    {
+        "correcta": 0,
+        "id": 82,
+        "pregunta_id": 30,
+        "texto": "DVI"
+    },
+    {
+        "correcta": 1,
+        "id": 83,
+        "pregunta_id": 30,
+        "texto": "VGA"
+    },
+    {
+        "correcta": 1,
+        "id": 84,
+        "pregunta_id": 31,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 0,
+        "id": 85,
+        "pregunta_id": 31,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 86,
+        "pregunta_id": 32,
+        "texto": "VERDADERO"
+    },
+    {
+        "correcta": 1,
+        "id": 87,
+        "pregunta_id": 32,
+        "texto": "FALSO"
+    },
+    {
+        "correcta": 0,
+        "id": 88,
+        "pregunta_id": 33,
+        "texto": "Los puertos COM1"
+    },
+    {
+        "correcta": 0,
+        "id": 89,
+        "pregunta_id": 33,
+        "texto": "Canales DMA"
+    },
+    {
+        "correcta": 1,
+        "id": 90,
+        "pregunta_id": 33,
+        "texto": "Canales IRQ"
+    },
+    {
+        "correcta": 0,
+        "id": 91,
+        "pregunta_id": 34,
+        "texto": "S3"
+    },
+    {
+        "correcta": 0,
+        "id": 92,
+        "pregunta_id": 34,
+        "texto": "G3"
+    },
+    {
+        "correcta": 1,
+        "id": 93,
+        "pregunta_id": 34,
+        "texto": "S4"
+    },
+    {
+        "correcta": 0,
+        "id": 94,
+        "pregunta_id": 35,
+        "texto": "SMBIOS"
+    },
+    {
+        "correcta": 1,
+        "id": 95,
+        "pregunta_id": 35,
+        "texto": "IPMI"
+    },
+    {
+        "correcta": 0,
+        "id": 96,
+        "pregunta_id": 35,
+        "texto": "WMI"
+    }
+]

@@ -1,0 +1,940 @@
+[
+    {
+        "id": 89,
+        "nombre": "Gabriela ",
+        "num_p": 20,
+        "puntaje_total": 16,
+        "usuario": "157.100.87.225"
+    },
+    {
+        "id": 90,
+        "nombre": "Diego Rey",
+        "num_p": 20,
+        "puntaje_total": 29,
+        "usuario": "190.57.151.9"
+    },
+    {
+        "id": 91,
+        "nombre": "0105986194",
+        "num_p": 20,
+        "puntaje_total": 32,
+        "usuario": "190.152.128.31"
+    },
+    {
+        "id": 96,
+        "nombre": "1104662232",
+        "num_p": 2,
+        "puntaje_total": 2,
+        "usuario": "192.188.50.145"
+    },
+    {
+        "id": 99,
+        "nombre": "asds",
+        "num_p": 20,
+        "puntaje_total": 24,
+        "usuario": "200.0.29.220"
+    },
+    {
+        "id": 100,
+        "nombre": "1752328920",
+        "num_p": 2,
+        "puntaje_total": null,
+        "usuario": "186.47.182.206"
+    },
+    {
+        "id": 104,
+        "nombre": "KELVIN",
+        "num_p": 15,
+        "puntaje_total": 23,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 105,
+        "nombre": "Kelvin_2.0",
+        "num_p": 16,
+        "puntaje_total": 31,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 106,
+        "nombre": "MAJO2.0",
+        "num_p": 12,
+        "puntaje_total": 25,
+        "usuario": "201.183.100.21"
+    },
+    {
+        "id": 107,
+        "nombre": "Kelvin_3.0",
+        "num_p": 18,
+        "puntaje_total": 19,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 108,
+        "nombre": "majo 1",
+        "num_p": 24,
+        "puntaje_total": 40,
+        "usuario": "201.183.100.21"
+    },
+    {
+        "id": 109,
+        "nombre": "1714642749",
+        "num_p": 13,
+        "puntaje_total": 16,
+        "usuario": "186.4.149.75"
+    },
+    {
+        "id": 110,
+        "nombre": "Kelvin_1.0",
+        "num_p": 9,
+        "puntaje_total": 13,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 111,
+        "nombre": "Kelvin_1.",
+        "num_p": 20,
+        "puntaje_total": 36,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 112,
+        "nombre": "Majo2.1",
+        "num_p": 20,
+        "puntaje_total": 44,
+        "usuario": "200.7.246.61"
+    },
+    {
+        "id": 113,
+        "nombre": "Kelvin_1",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 128,
+        "nombre": "0706817681",
+        "num_p": 20,
+        "puntaje_total": 26,
+        "usuario": "186.70.116.137"
+    },
+    {
+        "id": 129,
+        "nombre": "camarada",
+        "num_p": 20,
+        "puntaje_total": 16,
+        "usuario": "192.188.50.149"
+    },
+    {
+        "id": 130,
+        "nombre": "1716280795",
+        "num_p": 20,
+        "puntaje_total": 26,
+        "usuario": "45.162.74.9"
+    },
+    {
+        "id": 131,
+        "nombre": "esca26",
+        "num_p": 20,
+        "puntaje_total": 25,
+        "usuario": "186.47.138.155"
+    },
+    {
+        "id": 132,
+        "nombre": "Kelvin_1..",
+        "num_p": 20,
+        "puntaje_total": 29,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 133,
+        "nombre": "1713316030",
+        "num_p": 20,
+        "puntaje_total": 23,
+        "usuario": "200.63.106.126"
+    },
+    {
+        "id": 134,
+        "nombre": "Majo3.1",
+        "num_p": 20,
+        "puntaje_total": 44,
+        "usuario": "201.183.100.21"
+    },
+    {
+        "id": 135,
+        "nombre": "Vinivio",
+        "num_p": 20,
+        "puntaje_total": 29,
+        "usuario": "191.99.15.57"
+    },
+    {
+        "id": 136,
+        "nombre": "Walter ",
+        "num_p": 20,
+        "puntaje_total": 16,
+        "usuario": "186.178.58.180"
+    },
+    {
+        "id": 137,
+        "nombre": "1713787842",
+        "num_p": 20,
+        "puntaje_total": 39,
+        "usuario": "186.4.174.22"
+    },
+    {
+        "id": 138,
+        "nombre": "Kelvin 1",
+        "num_p": 20,
+        "puntaje_total": 30,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 139,
+        "nombre": "KELVIN..",
+        "num_p": 20,
+        "puntaje_total": 41,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 140,
+        "nombre": "Kelvin_2.1",
+        "num_p": 20,
+        "puntaje_total": 43,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 141,
+        "nombre": "KELVIN....",
+        "num_p": 1,
+        "puntaje_total": null,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 142,
+        "nombre": "Kelvin_3",
+        "num_p": 20,
+        "puntaje_total": 41,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 143,
+        "nombre": "Luckyboiii",
+        "num_p": 20,
+        "puntaje_total": 34,
+        "usuario": "201.183.105.1"
+    },
+    {
+        "id": 144,
+        "nombre": "esca26",
+        "num_p": 20,
+        "puntaje_total": 26,
+        "usuario": "186.47.136.1"
+    },
+    {
+        "id": 145,
+        "nombre": "Kelvin__",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 146,
+        "nombre": "KELVIN.1.1",
+        "num_p": 20,
+        "puntaje_total": 32,
+        "usuario": "45.186.6.81"
+    },
+    {
+        "id": 147,
+        "nombre": "Kelvin_1.3",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "45.186.6.81"
+    },
+    {
+        "id": 148,
+        "nombre": "Kelvin_4.0",
+        "num_p": 20,
+        "puntaje_total": 44,
+        "usuario": "45.186.6.81"
+    },
+    {
+        "id": 149,
+        "nombre": "Oscar",
+        "num_p": 20,
+        "puntaje_total": 20,
+        "usuario": "181.199.44.200"
+    },
+    {
+        "id": 150,
+        "nombre": "Oscar1",
+        "num_p": 5,
+        "puntaje_total": 9,
+        "usuario": "181.199.44.200"
+    },
+    {
+        "id": 151,
+        "nombre": "OscarQ",
+        "num_p": 20,
+        "puntaje_total": 39,
+        "usuario": "181.199.44.200"
+    },
+    {
+        "id": 152,
+        "nombre": "Juan N",
+        "num_p": 20,
+        "puntaje_total": 25,
+        "usuario": "157.100.139.159"
+    },
+    {
+        "id": 154,
+        "nombre": "oscar",
+        "num_p": 20,
+        "puntaje_total": 20,
+        "usuario": "45.162.72.10"
+    },
+    {
+        "id": 155,
+        "nombre": "david",
+        "num_p": 20,
+        "puntaje_total": 22,
+        "usuario": "45.162.72.10"
+    },
+    {
+        "id": 156,
+        "nombre": "carhua ",
+        "num_p": 20,
+        "puntaje_total": 28,
+        "usuario": "45.162.72.10"
+    },
+    {
+        "id": 157,
+        "nombre": "gualutuña ",
+        "num_p": 20,
+        "puntaje_total": 38,
+        "usuario": "45.162.72.10"
+    },
+    {
+        "id": 158,
+        "nombre": "prueba_1",
+        "num_p": 0,
+        "puntaje_total": 0,
+        "usuario": "200.0.29.220"
+    },
+    {
+        "id": 159,
+        "nombre": "Carlos ",
+        "num_p": 20,
+        "puntaje_total": 14,
+        "usuario": "66.231.72.11"
+    },
+    {
+        "id": 160,
+        "nombre": "Andres",
+        "num_p": 20,
+        "puntaje_total": 24,
+        "usuario": "66.231.72.11"
+    },
+    {
+        "id": 161,
+        "nombre": "1716152721",
+        "num_p": 20,
+        "puntaje_total": 23,
+        "usuario": "163.116.226.120"
+    },
+    {
+        "id": 162,
+        "nombre": "Kelvin_4.2",
+        "num_p": 20,
+        "puntaje_total": 43,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 163,
+        "nombre": "1719026542",
+        "num_p": 20,
+        "puntaje_total": 19,
+        "usuario": "179.51.141.145"
+    },
+    {
+        "id": 164,
+        "nombre": "juan23",
+        "num_p": 20,
+        "puntaje_total": 25,
+        "usuario": "157.100.139.159"
+    },
+    {
+        "id": 165,
+        "nombre": "1718330457",
+        "num_p": 20,
+        "puntaje_total": 27,
+        "usuario": "179.49.1.146"
+    },
+    {
+        "id": 166,
+        "nombre": "1206804138",
+        "num_p": 20,
+        "puntaje_total": 24,
+        "usuario": "157.100.89.144"
+    },
+    {
+        "id": 167,
+        "nombre": "Leon2.0",
+        "num_p": 20,
+        "puntaje_total": 28,
+        "usuario": "157.100.89.144"
+    },
+    {
+        "id": 168,
+        "nombre": "esca26",
+        "num_p": 20,
+        "puntaje_total": 26,
+        "usuario": "186.47.139.183"
+    },
+    {
+        "id": 169,
+        "nombre": "1105431462",
+        "num_p": 20,
+        "puntaje_total": 22,
+        "usuario": "186.3.85.116"
+    },
+    {
+        "id": 170,
+        "nombre": "John",
+        "num_p": 20,
+        "puntaje_total": 18,
+        "usuario": "190.57.149.82"
+    },
+    {
+        "id": 171,
+        "nombre": "John27",
+        "num_p": 20,
+        "puntaje_total": 22,
+        "usuario": "190.57.149.82"
+    },
+    {
+        "id": 172,
+        "nombre": "JohnHenrry",
+        "num_p": 20,
+        "puntaje_total": 23,
+        "usuario": "190.57.149.82"
+    },
+    {
+        "id": 173,
+        "nombre": "1721342671",
+        "num_p": 0,
+        "puntaje_total": 0,
+        "usuario": "200.63.104.212"
+    },
+    {
+        "id": 174,
+        "nombre": "1726974635",
+        "num_p": 20,
+        "puntaje_total": 26,
+        "usuario": "201.183.105.1"
+    },
+    {
+        "id": 175,
+        "nombre": "Luckyboii",
+        "num_p": 20,
+        "puntaje_total": 40,
+        "usuario": "201.183.105.1"
+    },
+    {
+        "id": 176,
+        "nombre": "Jose",
+        "num_p": 0,
+        "puntaje_total": 0,
+        "usuario": "66.231.72.6"
+    },
+    {
+        "id": 177,
+        "nombre": "Andres",
+        "num_p": 20,
+        "puntaje_total": 27,
+        "usuario": "66.231.72.6"
+    },
+    {
+        "id": 178,
+        "nombre": "Jaime",
+        "num_p": 20,
+        "puntaje_total": 18,
+        "usuario": "186.47.182.106"
+    },
+    {
+        "id": 179,
+        "nombre": "Jaimes",
+        "num_p": 20,
+        "puntaje_total": 32,
+        "usuario": "186.47.182.106"
+    },
+    {
+        "id": 180,
+        "nombre": "OscarN",
+        "num_p": 20,
+        "puntaje_total": 33,
+        "usuario": "157.100.113.144"
+    },
+    {
+        "id": 181,
+        "nombre": "OscarNQ",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "157.100.113.144"
+    },
+    {
+        "id": 182,
+        "nombre": "Jaimes",
+        "num_p": 18,
+        "puntaje_total": 29,
+        "usuario": "200.24.217.218"
+    },
+    {
+        "id": 183,
+        "nombre": "fer",
+        "num_p": 20,
+        "puntaje_total": 25,
+        "usuario": "164.163.134.129"
+    },
+    {
+        "id": 184,
+        "nombre": "Jaimesp",
+        "num_p": 20,
+        "puntaje_total": 34,
+        "usuario": "200.24.217.218"
+    },
+    {
+        "id": 185,
+        "nombre": "Luis",
+        "num_p": 20,
+        "puntaje_total": 41,
+        "usuario": "200.24.217.218"
+    },
+    {
+        "id": 186,
+        "nombre": "Jalem",
+        "num_p": 20,
+        "puntaje_total": 37,
+        "usuario": "200.24.217.218"
+    },
+    {
+        "id": 187,
+        "nombre": "Jai",
+        "num_p": 20,
+        "puntaje_total": 41,
+        "usuario": "200.24.217.218"
+    },
+    {
+        "id": 188,
+        "nombre": "1723583033",
+        "num_p": 3,
+        "puntaje_total": 2,
+        "usuario": "200.7.246.245"
+    },
+    {
+        "id": 189,
+        "nombre": "1718139833",
+        "num_p": 20,
+        "puntaje_total": 20,
+        "usuario": "200.125.231.98"
+    },
+    {
+        "id": 190,
+        "nombre": "pacoloco",
+        "num_p": 20,
+        "puntaje_total": 27,
+        "usuario": "200.125.231.98"
+    },
+    {
+        "id": 191,
+        "nombre": "Fran",
+        "num_p": 20,
+        "puntaje_total": 20,
+        "usuario": "200.125.231.98"
+    },
+    {
+        "id": 192,
+        "nombre": "Fran1",
+        "num_p": 20,
+        "puntaje_total": 30,
+        "usuario": "200.125.231.98"
+    },
+    {
+        "id": 193,
+        "nombre": "Fran2",
+        "num_p": 20,
+        "puntaje_total": 43,
+        "usuario": "200.125.231.98"
+    },
+    {
+        "id": 194,
+        "nombre": "Alpha",
+        "num_p": 20,
+        "puntaje_total": 44,
+        "usuario": "200.125.230.251"
+    },
+    {
+        "id": 195,
+        "nombre": "1720991213",
+        "num_p": 20,
+        "puntaje_total": 25,
+        "usuario": "157.100.138.27"
+    },
+    {
+        "id": 196,
+        "nombre": "1710641802",
+        "num_p": 20,
+        "puntaje_total": 37,
+        "usuario": "157.100.138.27"
+    },
+    {
+        "id": 197,
+        "nombre": "1708005879",
+        "num_p": 20,
+        "puntaje_total": 40,
+        "usuario": "157.100.138.27"
+    },
+    {
+        "id": 198,
+        "nombre": "1721305579",
+        "num_p": 20,
+        "puntaje_total": 38,
+        "usuario": "157.100.138.27"
+    },
+    {
+        "id": 199,
+        "nombre": "1234567890",
+        "num_p": 20,
+        "puntaje_total": 32,
+        "usuario": "190.57.151.9"
+    },
+    {
+        "id": 200,
+        "nombre": "9874563210",
+        "num_p": 20,
+        "puntaje_total": 37,
+        "usuario": "190.57.151.9"
+    },
+    {
+        "id": 201,
+        "nombre": "7410258963",
+        "num_p": 20,
+        "puntaje_total": 44,
+        "usuario": "190.57.151.9"
+    },
+    {
+        "id": 202,
+        "nombre": "Jeferson",
+        "num_p": 20,
+        "puntaje_total": 27,
+        "usuario": "45.70.201.29"
+    },
+    {
+        "id": 203,
+        "nombre": "Gamma",
+        "num_p": 20,
+        "puntaje_total": 38,
+        "usuario": "200.125.230.251"
+    },
+    {
+        "id": 204,
+        "nombre": "1718",
+        "num_p": 20,
+        "puntaje_total": 38,
+        "usuario": "200.125.230.251"
+    },
+    {
+        "id": 205,
+        "nombre": "Cristopher",
+        "num_p": 20,
+        "puntaje_total": 28,
+        "usuario": "45.164.66.214"
+    },
+    {
+        "id": 206,
+        "nombre": "Guido",
+        "num_p": 20,
+        "puntaje_total": 37,
+        "usuario": "45.164.66.214"
+    },
+    {
+        "id": 207,
+        "nombre": "1315617793",
+        "num_p": 0,
+        "puntaje_total": 0,
+        "usuario": "200.85.83.251"
+    },
+    {
+        "id": 208,
+        "nombre": "1004504740",
+        "num_p": 20,
+        "puntaje_total": 11,
+        "usuario": "186.42.12.12"
+    },
+    {
+        "id": 209,
+        "nombre": "Luis",
+        "num_p": 20,
+        "puntaje_total": 22,
+        "usuario": "181.199.58.137"
+    },
+    {
+        "id": 210,
+        "nombre": "EnnerGod",
+        "num_p": 16,
+        "puntaje_total": 19,
+        "usuario": "181.199.58.137"
+    },
+    {
+        "id": 211,
+        "nombre": "KELVIN5",
+        "num_p": 15,
+        "puntaje_total": 28,
+        "usuario": "45.71.200.13"
+    },
+    {
+        "id": 212,
+        "nombre": "1723583033",
+        "num_p": 20,
+        "puntaje_total": 21,
+        "usuario": "157.100.139.130"
+    },
+    {
+        "id": 213,
+        "nombre": "1723503924",
+        "num_p": 20,
+        "puntaje_total": 28,
+        "usuario": "157.100.139.130"
+    },
+    {
+        "id": 214,
+        "nombre": "1100289113",
+        "num_p": 20,
+        "puntaje_total": 33,
+        "usuario": "157.100.139.130"
+    },
+    {
+        "id": 215,
+        "nombre": "1721437737",
+        "num_p": 20,
+        "puntaje_total": 21,
+        "usuario": "200.105.247.242"
+    },
+    {
+        "id": 216,
+        "nombre": "SLCAIZA",
+        "num_p": 20,
+        "puntaje_total": 26,
+        "usuario": "200.105.247.242"
+    },
+    {
+        "id": 217,
+        "nombre": "aaaaa",
+        "num_p": 20,
+        "puntaje_total": 38,
+        "usuario": "157.100.113.144"
+    },
+    {
+        "id": 218,
+        "nombre": "1004504740",
+        "num_p": 20,
+        "puntaje_total": 24,
+        "usuario": "181.196.10.53"
+    },
+    {
+        "id": 219,
+        "nombre": "Blue",
+        "num_p": 3,
+        "puntaje_total": 8,
+        "usuario": "45.70.201.29"
+    },
+    {
+        "id": 220,
+        "nombre": "Jain",
+        "num_p": 1,
+        "puntaje_total": 2,
+        "usuario": "200.125.231.230"
+    },
+    {
+        "id": 221,
+        "nombre": "guille",
+        "num_p": 20,
+        "puntaje_total": 28,
+        "usuario": "157.100.113.224"
+    },
+    {
+        "id": 222,
+        "nombre": "homeromb",
+        "num_p": 20,
+        "puntaje_total": 32,
+        "usuario": "157.100.113.224"
+    },
+    {
+        "id": 223,
+        "nombre": "guillehm",
+        "num_p": 20,
+        "puntaje_total": 40,
+        "usuario": "157.100.113.224"
+    },
+    {
+        "id": 224,
+        "nombre": "0913641569",
+        "num_p": 20,
+        "puntaje_total": 19,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 225,
+        "nombre": "0910892090",
+        "num_p": 20,
+        "puntaje_total": 29,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 226,
+        "nombre": "0913458920",
+        "num_p": 20,
+        "puntaje_total": 40,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 227,
+        "nombre": "0912457823",
+        "num_p": 20,
+        "puntaje_total": 37,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 229,
+        "nombre": "0915672589",
+        "num_p": 20,
+        "puntaje_total": 25,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 230,
+        "nombre": "0945237823",
+        "num_p": 20,
+        "puntaje_total": 32,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 231,
+        "nombre": "0965329865",
+        "num_p": 20,
+        "puntaje_total": 30,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 232,
+        "nombre": "1245785698",
+        "num_p": 20,
+        "puntaje_total": 38,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 233,
+        "nombre": "1245789632",
+        "num_p": 20,
+        "puntaje_total": 34,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 234,
+        "nombre": "0923659845",
+        "num_p": 20,
+        "puntaje_total": 39,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 235,
+        "nombre": "0945127893",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 236,
+        "nombre": "0945236598",
+        "num_p": 20,
+        "puntaje_total": 43,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 237,
+        "nombre": "0923568923",
+        "num_p": 20,
+        "puntaje_total": 39,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 238,
+        "nombre": "0946582345",
+        "num_p": 20,
+        "puntaje_total": 43,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 239,
+        "nombre": "0912457856",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 240,
+        "nombre": "0923568974",
+        "num_p": 20,
+        "puntaje_total": 44,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 241,
+        "nombre": "0978562341",
+        "num_p": 20,
+        "puntaje_total": 42,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 242,
+        "nombre": "Nancy.20",
+        "num_p": 20,
+        "puntaje_total": 45,
+        "usuario": "157.100.107.61"
+    },
+    {
+        "id": 243,
+        "nombre": "StefiMar",
+        "num_p": 20,
+        "puntaje_total": 41,
+        "usuario": "190.130.220.208"
+    },
+    {
+        "id": 244,
+        "nombre": "Gustavo",
+        "num_p": 1,
+        "puntaje_total": null,
+        "usuario": "192.188.50.149"
+    },
+    {
+        "id": 245,
+        "nombre": "1104648496",
+        "num_p": 1,
+        "puntaje_total": null,
+        "usuario": "200.0.29.211"
+    },
+    {
+        "id": 246,
+        "nombre": "MAJO.",
+        "num_p": 20,
+        "puntaje_total": 40,
+        "usuario": "201.183.104.190"
+    },
+    {
+        "id": 247,
+        "nombre": "erick",
+        "num_p": 20,
+        "puntaje_total": 12,
+        "usuario": "127.0.0.1"
+    }
+]

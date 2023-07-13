@@ -1,0 +1,37 @@
+id,texto,max_puntaje,dificultad,tipo,unidad
+1,DVD es acrónimo de _________.,1,1,Opcion multiple,1
+2,Un sistema operativo es un:,1,1,Opcion multiple,1
+3,"Un sistema informático es un conjunto de hardware y software que está interrelacionado entre sí, permitiendo el procesamiento de la información.",1,1,Dicotomica,1
+4,La BIOS:,1,1,Opcion multiple,1
+5,Central boot es uno de los principales programas Boot Maganer.,2,2,Dicotomica,1
+6,Un diodo solo permite el flujo de corriente en un sentido.,1,1,Dicotomica,1
+7,La función de una resistencia dentro de un circuito electrónico es:,1,1,Opcion multiple,1
+8,"Los periféricos son componentes externos del ordenador
+como impresoras, mouse, teclados, entre otros.",1,1,Dicotomica,1
+9,ROM significa:,1,1,Opcion multiple,1
+10,El firmware es _________.,2,2,Opcion multiple,1
+11,Fotolitografía es un proceso donde:,2,2,Opcion multiple,2
+12,HDCP es un sistema de comunicación digital.,1,1,Dicotomica,2
+13,"La pila o batería del ordenador, o más correctamente el acumulador, se encarga de:",2,2,Opcion multiple,2
+14,La tarjeta gráfica es:,1,1,Opcion multiple,2
+15,"Los procesadores de flujo se encargan de gestionar los núcleos, lo que hace que se pueda procesar mucha información al mismo tiempo lo cual redunda en la velocidad de la tarjeta.",2,2,Dicotomica,2
+16,GPU es acrónimo de:,1,1,Opcion multiple,2
+17,Los conectores tantos internos como externos de un equipo informático nos sirven para:,1,1,Opcion multiple,2
+18,La BIOS es el acrónimo de:,1,1,Opcion multiple,2
+19,Un microprocesador es:,1,1,Opcion multiple,3
+20,Un ejemplo de un material semiconductor,2,2,Opcion multiple,3
+21,"Un microprocesador, también conocido como procesador, micro, chip o microchip, es:",2,2,Opcion multiple,2
+22,La placa base es quien:,2,2,Opcion multiple,2
+23,El tipo de memoria SDRAM presenta mejoras en:,3,3,Opcion multiple,3
+24,Los módulos de memoria usando en tablets y smarthphones son _________.,3,3,Opcion multiple,3
+25,"Si el ordenador necesita más memoria y físicamente está en el límite de su capacidad, se puede crear un archivo en el disco duro o externo donde se almacena los datos que no caben en la memoria.",3,3,Dicotomica,3
+26,El componente donde se inserta el microprocesador es:,2,2,Opcion multiple,4
+27,La DIMM de 240 pines y 133 mm de largo son usados para memorias ______.,3,3,Opcion multiple,4
+28,El chipset de control tiene la función de:,2,2,Opcion multiple,4
+29,"En la clasificación de las ranuras de expansión, se tiene una que es exclusiva para las tarjetas de video en 3D, esta es la RANURA: _______",3,3,Opcion multiple,4
+30,"Para conectar el cable de un monitor genérico que tiene 15 pines en tres hileras, este puerto tiene el nombre de:",1,1,Opcion multiple,4
+31,"El puerto paralelo LPT (Line print Terminal), es un puerto que se puede enviar paralelamente hasta 8 bits. Generalmente usado en impresoras antiguas.",2,2,Dicotomica,4
+32,"El termino Gigabit Ethernet, tiene relación con el módulo regulador de voltaje:",2,2,Dicotomica,4
+33,"Cuando un dispositivo quiere comunicarse con el microprocesador, para solicitar una interrupción, esto lo hace a través de:",3,3,Opcion multiple,4
+34,"La configuración de la interfaz de energía usa siete estados de ahorro de energía. Si el ordenador hiberna o suspende su disco, el nombre de esa fase es:",3,3,Opcion multiple,4
+35,"En la administración de los ordenadores usando la información de su placa base, el sistema de gestión ___________, monitorea a través de la red u otros canales dedicados, incluso cuando hay ausencia del sistema operativo o el ordenador se encuentra apagado.",3,3,Opcion multiple,4
