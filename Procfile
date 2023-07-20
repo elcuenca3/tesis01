@@ -1,1 +1,1 @@
-web: gunicorn Aplicativo.wsgi --log-file -
+web: flask db upgrade; gunicorn Aplicativo:app
