@@ -1,1 +1,1 @@
-web: gunicorn Quiz:app
+web: gunicorn Aplicativo.wsgi
