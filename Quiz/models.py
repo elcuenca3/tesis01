@@ -61,7 +61,7 @@ class QuizUsuario(models.Model):
 		print(dif)
 		respondidas = PreguntasRespondidas.objects.filter(quizUser=self).values_list('pregunta__pk', flat=True)
 		preguntas_restantes = Pregunta.objects.exclude(pk__in=respondidas)
-		if len(respondidas) >= 20:
+		if len(respondidas) >= 15:
 			return None
 		try:
 			return random.choice(preguntas_restantes.filter(dificultad=dif))

@@ -79,7 +79,7 @@ def tablero(request):
 		'contar_user':contador
 	}
 
-	if n_preguntas >= 20:
+	if n_preguntas >= 15:
 		codigo = get_client_ip(request) + '.' + nombre_usuario
 		context = {
 			'user':nombre_usuario,
@@ -152,10 +152,10 @@ def jugar(request):
 		return redirect('resultado', pregunta_respondida.pk)
 
 	else:
-		if len(array) <= 20 and getP == True:
+		if len(array) <= 15 and getP == True:
 			pregunta = QuizUser.obtener_nuevas_preguntas()
 			if pregunta is None:
-				return render(request, 'play/jugar.html', {'array': 20})
+				return render(request, 'play/jugar.html', {'array': 15})
 
 			getP = False
 		else:
@@ -169,7 +169,7 @@ def jugar(request):
 		correcta = obtenerCorrecta(pregunta.id, ElegirRespuesta)
 	except AttributeError:
 		context = {
-			'array':20
+			'array':15
 		}
 		return render(request, 'play/jugar.html', context)
 	context = {
