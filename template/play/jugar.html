@@ -22,7 +22,7 @@
 	<div class="jumbotron my-4">
 		
 		
-		<p>Pregunta {{n_pregunta}} de 20</p>
+		<p>Pregunta {{n_pregunta}} de 15</p>
 		<h3>
 			{{pregunta.texto}}
 		</h3>
@@ -61,7 +61,7 @@
 				window.location.href = '/sinTiempo/';
 			}
 			
-			$.ajax({
+			$.ajax(
 				type: "GET",
 				url: '/jugar',
 				data: {
