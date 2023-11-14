@@ -1,6 +1,5 @@
 use  tesis;
 
-
 -- -----------------------------------------------------
 -- Table `tesis`.`Quiz_comentariousuario`
 -- -----------------------------------------------------
@@ -70,7 +69,8 @@ CREATE TABLE `tesis`.`Quiz_preguntasrespondidas` (
   FOREIGN KEY (`nombreUser_id`) REFERENCES `Quiz_quizusuario` (`id`),
   FOREIGN KEY (`pregunta_id`) REFERENCES `Quiz_pregunta` (`id`),
   INDEX `idx_correcta` (`correcta`),
-  FOREIGN KEY (`correcta`) REFERENCES `Quiz_elegirrespuesta` (`correcta`)
+  FOREIGN KEY (`correcta`) REFERENCES `Quiz_elegirrespuesta` (`correcta`),
+  FOREIGN KEY (`pregunta_id`) REFERENCES `Quiz_pregunta` (`id`)
 ) ENGINE=InnoDB;
 
 

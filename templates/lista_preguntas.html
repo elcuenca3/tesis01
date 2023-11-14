@@ -1,0 +1,18 @@
+{% extends 'base.html' %} {% load static %} {% block contenido %}
+  <div class="container py-5">
+    <body>
+      <h1>Lista de Preguntas</h1>
+      <ul>
+        {% for pregunta in preguntas %}
+          <li>{{ pregunta.texto }}</li>
+        {% endfor %}
+      </ul>
+
+      <form method="post" action="{% url 'jugar' %}">
+        {% csrf_token %}
+        <input type="hidden" name="pregunta_pk" value="{{ cuestionario.id }}" />
+        <input class="btn btn-primary" type="submit" value="Jugar" />
+      </form>
+    </body>
+  </div>
+{% endblock %}

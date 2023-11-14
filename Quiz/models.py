@@ -14,6 +14,33 @@ import random
 # 	quizMateria  =models.ForeignKey(verbose_name="Nombre materia",  null=True)
 # 	quizMateria_docente  =models.ForeignKey(verbose_name="Nombre docente",  null=True)
 # 	quizCiclo  =models.TextField(verbose_name='Ip usuario')
+# Erick
+class Carrera(models.Model):
+    idCarrera = models.AutoField(primary_key=True)
+    nombre = models.CharField(max_length=100)
+
+    def __str__(self):
+        return self.nombre 
+
+
+class Materias(models.Model):
+    idMateria = models.AutoField(primary_key=True)
+    nombre = models.CharField(max_length=100)
+    ciclo = models.IntegerField(null=False)
+    idCarrera = models.ForeignKey(Carrera, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.idMateria} - {self.nombre}"
+
+
+class Cuestionarios(models.Model):
+    idCuestionario = models.AutoField(primary_key=True,unique=True)
+    nombre = models.CharField(max_length=100)
+    idMateria = models.ForeignKey(Materias, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.nombre
+
 
 class Pregunta(models.Model):
 
@@ -24,8 +51,7 @@ class Pregunta(models.Model):
 	max_puntaje = models.DecimalField(verbose_name='Maximo Puntaje', default=3, decimal_places=2, max_digits=6)
 	tipo = models.TextField(verbose_name='Tipo de pregunta')
 	unidad = models.IntegerField(verbose_name='Unidad a la que pertenece')
-	# Cambios echos por Erick
-	# materia =models.ForeignKey(Materia, on_delete=models.CASCADE, related_name='nombre de materia', null=False)
+	cuestionario_id = models.ForeignKey(Cuestionarios,on_delete=models.CASCADE,verbose_name='Cuestionario')
 	def __str__(self):
 		return self.texto
 
@@ -42,7 +68,7 @@ class ElegirRespuesta(models.Model):
 	def __str__(self):
 		return self.texto
 
-class QuizUsuario(models.Model):
+class  QuizUsuario(models.Model):
 	usuario = models.TextField(verbose_name='Ip usuario')
 	nombre = models.TextField(verbose_name='Nombre del usuario', null=True)
 	puntaje_total = models.DecimalField(verbose_name='Puntaje Total', null=True, default=0.00, decimal_places=2, max_digits=10)
@@ -61,7 +87,7 @@ class QuizUsuario(models.Model):
 		print(dif)
 		respondidas = PreguntasRespondidas.objects.filter(quizUser=self).values_list('pregunta__pk', flat=True)
 		preguntas_restantes = Pregunta.objects.exclude(pk__in=respondidas)
-		if len(respondidas) >= 15:
+		if len(respondidas) >= 20:
 			return None
 		try:
 			return random.choice(preguntas_restantes.filter(dificultad=dif))
@@ -106,20 +132,20 @@ class QuizUsuario(models.Model):
 		comentario.save()
 
 class PreguntasRespondidas(models.Model):
-	quizUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='intentos')
-	nombreUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='intentos_username', null=True)
-	pregunta = models.ForeignKey(Pregunta, on_delete=models.CASCADE, related_name='texto_pregunta')
-	respuesta = models.ForeignKey(ElegirRespuesta, on_delete=models.CASCADE, null=True)
-	dificultad = models.IntegerField(verbose_name='Dificultad de la pregunta', null=True)
-	uso_ayuda = models.BooleanField(verbose_name='¿Utilizo ayuda?', default=False)
-	tiempo_pregunta = models.IntegerField(verbose_name='Tiempo que de la pregunta', null=True)
-	correcta  = models.BooleanField(verbose_name='¿Es esta la respuesta correcta?', default=False)
-	puntaje_obtenido = models.DecimalField(verbose_name='Puntaje Obtenido', default=0, decimal_places=2, max_digits=6)
+    quizUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='intentos')
+    nombreUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='intentos_username', null=True)
+    pregunta = models.ForeignKey(Pregunta, on_delete=models.CASCADE, related_name='respuestas')
+    respuesta = models.ForeignKey(ElegirRespuesta, on_delete=models.CASCADE, null=True)
+    dificultad = models.IntegerField(verbose_name='Dificultad de la pregunta', null=True)
+    uso_ayuda = models.BooleanField(verbose_name='¿Utilizo ayuda?', default=False)
+    tiempo_pregunta = models.IntegerField(verbose_name='Tiempo de la pregunta', null=True)
+    correcta = models.BooleanField(verbose_name='¿Es esta la respuesta correcta?', default=False)
+    puntaje_obtenido = models.DecimalField(verbose_name='Puntaje Obtenido', default=0, decimal_places=2, max_digits=6)
+
+    
+
 
 class ComentarioUsuario(models.Model):
 	quizUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='comentario')
 	nombreUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='comentario_username', null=True)
 	comentario = models.TextField(verbose_name='Comentario')
-
-	
-	
