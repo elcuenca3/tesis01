@@ -1,20 +1,11 @@
-from email.policy import default
-from genericpath import exists
-from tabnanny import verbose
 from django.db import models
-from django.conf import settings
 
 
 from .sistemafuzzy import obtener_dif_pregunta
 
 import random
 
-# Cambios echos por Erick
-# class Materia (models.Model):
-# 	quizMateria  =models.ForeignKey(verbose_name="Nombre materia",  null=True)
-# 	quizMateria_docente  =models.ForeignKey(verbose_name="Nombre docente",  null=True)
-# 	quizCiclo  =models.TextField(verbose_name='Ip usuario')
-# Erick
+
 class Carrera(models.Model):
     idCarrera = models.AutoField(primary_key=True)
     nombre = models.CharField(max_length=100)
@@ -82,15 +73,16 @@ class  QuizUsuario(models.Model):
 		respondidas = PreguntasRespondidas.objects.filter(quizUser=self).values_list('pregunta__pk', flat=True)
 		return len(respondidas) + 1
 
-	def obtener_nuevas_preguntas(self):
+	def obtener_nuevas_preguntas(self,id_cuestionario):
+		
 		dif = obtener_dif_pregunta()
 		print(dif)
 		respondidas = PreguntasRespondidas.objects.filter(quizUser=self).values_list('pregunta__pk', flat=True)
-		preguntas_restantes = Pregunta.objects.exclude(pk__in=respondidas)
+		preguntas_restantes = Pregunta.objects.exclude(pk__in=respondidas, cuestionario_id=id_cuestionario)
 		if len(respondidas) >= 20:
 			return None
 		try:
-			return random.choice(preguntas_restantes.filter(dificultad=dif))
+			return random.choice(preguntas_restantes.filter(dificultad=dif, cuestionario_id=id_cuestionario))
 		except IndexError:
 			return random.choice(preguntas_restantes)
 
@@ -149,3 +141,12 @@ class ComentarioUsuario(models.Model):
 	quizUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='comentario')
 	nombreUser = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE, related_name='comentario_username', null=True)
 	comentario = models.TextField(verbose_name='Comentario')
+
+class QuizUsuario_Cuestionarios(models.Model):
+    quiz_quizusuario = models.ForeignKey(QuizUsuario, on_delete=models.CASCADE)
+    quiz_cuestionarios = models.ForeignKey(Cuestionarios, on_delete=models.CASCADE)
+    tiempo = models.DateField()
+    estado = models.CharField(max_length=45)
+
+    class Meta:
+        unique_together = (('quiz_quizusuario', 'quiz_cuestionarios'),)

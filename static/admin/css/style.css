@@ -13,6 +13,9 @@ body {
   );
   background: linear-gradient(to right, #eaeaea, #dbdbdb, #f2f2f2, #ada996);
 }
+.decore{
+  text-decoration: none;
+}
 #center {
     display: block; /* Hace que la imagen sea un bloque */
     margin: 0 auto; /* Centra horizontalmente */
@@ -33,11 +36,12 @@ body {
   padding-bottom: 0px;
 }
 .espacio{
-  padding-top: 150px;
-  padding-bottom: 150px;
+  margin-bottom: 100px;
+
 
 
 }
+
 .espaciojuego{
   padding-top: 130px;
   padding-bottom: 130px;

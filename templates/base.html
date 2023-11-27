@@ -23,12 +23,13 @@
     <!-- Custom CSS -->
     <!-- <link rel="stylesheet" href="/static/admin/css/style.css" /> -->
     <link rel="stylesheet" href="{% static '/admin/css/style.css' %}" />
+    <script src="https://kit.fontawesome.com/bcbbcbf370.js" crossorigin="anonymous"></script>
   </head>
   <body >
     
     <!-- Navbar -->
     {% comment %} <nav class="navbar navbar-expand-lg navbar-dark bg-dark"> {% endcomment %}
-    <nav class="navbar navbar-dark bg-dark" >
+    <nav class="navbar navbar-dark bg-dark fixed-top" >
       <div class="container">
         <a class="navbar-brand" href="/">
           <img src="/static/admin/img/lgSFre.png" alt="Logo" width="230" height="60" class="/" />
@@ -56,33 +57,40 @@
     </nav>
 
     <!-- Contenido -->
-    {% block contenido %}
+    <div class="espacio">
 
-    {% endblock %}
-
+      <div class="container mt-5">
+        <br>
+        <br>
+        
+        
+        
+        {% block contenido %}
+        
+        {% endblock %}
+      </div>
+    </div>
+      
     <!-- footer.html -->
 
     
-    <footer class="mt-auto text-white-50">
+    <footer class="mt-auto fixed-bottom mt-3 pt-4">
       <div class="bg-dark text-light">
-        <div class="container py-4">
+        <div class="py-4">
           <div class="row">
-            <div class="col-md-6">
-              <h4>Contacto</h4>
-              <p>Correo: info@example.com</p>
-              <p>Teléfono: (123) 456-7890</p>
+            <div class="col-md-10 ">
+{% comment %}           
+                    <img src="/static/admin/img/logo.png" alt="Logo" width="50" height="" id="logo" class="img-fluid " /> {% endcomment %}
+              <span class="fixed-bottom p-4 text-muted" ><i class="fa-solid fa-copyright "></i>  iMentorEdu  -  2024</span>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-2">
               <h4>Enlaces útiles</h4>
-              <ul>
-                <li>
-                  <a href="#">Acerca de nosotros</a>
+              <ul class="list-unstyled">
+                <li >
+                  <a href="#" class="colornav decore"> <i class="fa-solid fa-file-contract"></i> Términos y condiciones</a>
                 </li>
-                <li>
-                  <a href="#">Términos y condiciones</a>
-                </li>
-                <li>
-                  <a href="#">Política de privacidad</a>
+                <li >
+                  <a href="#" class="colornav"><i class="fa-solid fa-scale-balanced"></i> Política de privacidad</a>
                 </li>
               </ul>
             </div>
