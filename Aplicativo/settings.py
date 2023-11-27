@@ -88,17 +88,26 @@ WSGI_APPLICATION = 'Aplicativo.wsgi.application'
 #         'NAME': os.path.join(BASE_DIR, 'db2.sqlite3'),
 #     }
 # }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'tesis',
+#         'USER':'root',
+#         'PASSWORD':'admin',
+#         'HOST':'127.0.0.1',
+#         'PORT':'3306',
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'tesis',
-        'USER':'root',
-        'PASSWORD':'admin',
-        'HOST':'127.0.0.1',
-        'PORT':'3306',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'railway',
+        'USER':'postgres',
+        'PASSWORD':'3EB4d65b12cC1gCDg2bEddf1D1D*A*11',
+        'HOST':'monorail.proxy.rlwy.net',
+        'PORT':'18212',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
