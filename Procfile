@@ -1,1 +1,1 @@
-python manage.py runserver && gunicorn Aplicativo.wsgi
+web: gunicorn 'Aplicativo.wsgi'
