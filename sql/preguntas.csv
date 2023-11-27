@@ -1,0 +1,480 @@
+id;texto;max_puntaje;dificultad;tipo;unidad;Cuestionario_id
+1;DVD es acrónimo de:;1;1;Opcion multiple;1;1
+2;Un sistema operativo es un:;1;1;Opcion multiple;1;1
+3;Un sistema informático son:;1;1;Opcion multiple;1;1
+4;La BIOS:;2;2;Opcion multiple;1;1
+5;Uno de los siguientes programas no es un Boot Manager:;1;1;Opcion multiple;1;1
+6;Cuál de las siguientes afirmaciones es falsa:;2;2;Dicotomica;1;1
+7;La función de una resistencia dentro de un circuito electrónico es:;1;1;Opcion multiple;1;1
+8;Los periféricos son:;1;1;Opcion multiple;1;1
+9;ROM significa:;2;2;Opcion multiple;1;1
+10;El firmware es.;2;2;Opcion multiple;1;1
+11;Un microprocesador, también conocido como procesador, micro, chip o microchip, es:;1;1;Opcion multiple;2;1
+12;Fotolitografía es un proceso donde:;1;1;Opcion multiple;2;1
+13;La placa base es quien:;1;1;Opcion multiple;2;1
+14;HDCP es:;1;1;Opcion multiple;2;1
+15;La pila o batería del ordenador, o más correctamente el acumulador, se encarga de:;2;2;Opcion multiple;2;1
+16;La tarjeta gráfica es:;1;1;Opcion multiple;2;1
+17;Procesadores de flujo ______.;2;2;Opcion multiple;2;1
+18;La GPU (Graphics Processing Unit – Unidad de procesado de gráficos) es el procesador _________.;2;2;Opcion multiple;2;1
+19;Los conectores tantos internos como externos de un equipo informático nos sirven para:;2;2;Opcion multiple;2;1
+20;La BIOS es el acrónimo de:;2;2;Opcion multiple;2;1
+21;Un microprocesador es:;1;1;Opcion multiple;3;1
+22;El material usado en la fabricación de los microprocesadores es:;1;1;Opcion multiple;3;1
+23;El calentamiento del procesador se debe a:;1;1;Opcion multiple;3;1
+24;La diferencia entre 32 y 64 bits es:;1;1;Opcion multiple;3;1
+25;Elija el parámetro que no pertenece al funcionamiento del microprocesador.;1;1;Opcion multiple;3;1
+26;Que es el “die” del microprocesador;3;3;Dicotomica;3;1
+27;La cache L2 y L3;2;2;Opcion multiple;3;1
+28;La ventaja de usar múltiples núcleos en el microprocesador es:;2;2;Dicotomica;3;1
+29;La ley de Moore en su forma conocida enunciaba: “El número de transistores de un microprocesador se dobla cada 18 meses”, demuestra:;2;2;Dicotomica;3;1
+30;El bus de direcciones se encarga de:;1;1;Opcion multiple;3;1
+31;La velocidad de acceso a la memoria significa que:;1;1;Opcion multiple;3;1
+32;El término latencia se refiere:;1;1;Opcion multiple;3;1
+33;El tipo de memoria SDRAM presenta mejoras en:;1;1;Opcion multiple;3;1
+34;Los módulos de memoria usando en tablets y smarthphones son:;2;2;Opcion multiple;3;1
+35;Si el ordenador necesita más memoria y físicamente está en el límite de su capacidad, se puede:;2;2;Opcion multiple;3;1
+36;El componente donde se inserta el microprocesador es:;1;1;Opcion multiple;4;1
+37;La DIMM de 240 pines y 133 mm de largo son usados para memorias:;1;1;Opcion multiple;4;1
+38;El chipset de control tiene la función de:;1;1;Opcion multiple;4;1
+39;En la clasificación de las ranuras de expansión, se tiene una que es exclusiva para las tarjetas de video en 3D, esta es la RANURA: ________.;1;1;Opcion multiple;4;1
+40;Para conectar el cable de un monitor genérico que tiene 15 pines en tres hileras, este puerto tiene el nombre de:;2;2;Opcion multiple;4;1
+41;El puerto paralelo o LPT1, sirve para conectar:;2;2;Opcion multiple;4;1
+42;El termino Gigabit Ethernet, tiene relación con:;2;2;Opcion multiple;4;1
+43;Cuando un dispositivo quiere comunicarse con el microprocesador, para solicitar una interrupción, esto lo hace a través de:;3;3;Opcion multiple;4;1
+44;La configuración de la interfaz de energía usa siete estados de ahorro de energía. Si el ordenador hiberna o suspende su disco, el nombre de esa fase es:;2;2;Opcion multiple;4;1
+45;La configuración de la interfaz de energía usa siete estados de ahorro de energía. Si el ordenador hiberna o suspende su disco, el nombre de esa fase es:;3;3;Opcion multiple;4;1
+46;Los discos duros en estado sólido, su velocidad interna es:;1;1;Opcion multiple;5;1
+47;Un disco SSD, que usa memoria flash, su velocidad en el proceso de lectura y escritura puede ser_____________, mientras que en los discos magnéticos la velocidad es _____________.;1;1;Opcion multiple;5;1
+48;Un disco SSD, que usa memoria flash, su velocidad en el proceso de lectura y escritura puede ser_____________, mientras que en los discos magnéticos la velocidad es _____________.;1;1;Opcion multiple;5;1
+49;Un disco SSD, que usa memoria flash, su velocidad en el proceso de lectura y escritura puede ser_____________, mientras que en los discos magnéticos la velocidad es _____________.;1;1;Opcion multiple;5;1
+50;El dispositivo (son algunos) electromagnético que sirve para leer y escribir datos en un disco con tecnología magnética se denomina:;2;2;Dicotomica;5;1
+51;El término latencia en los discos duros significa:;;;Opcion multiple;5;1
+52;Una de las ventajas de los discos duros en estado sólido SSD y basado en memoria flash es ____________:;1;1;Opcion multiple;5;1
+53;Una limitante que tienen los discos duros es su espacio (2 TB), esto se debe históricamente a:;2;2;Opcion multiple;5;1
+54;El sistema de archivos es: __________ que utiliza un determinado sistema operativo, para empezar este proceso se tiene que realizar __________ el dispositivo para almacenar información:;1;1;Opcion multiple;5;1
+55;Actualmente el tamaño máximo de almacenamiento de una tarjeta SDHC es:;1;1;Opcion multiple;5;1
+56;La interfaz __________ permite una taza de transferencia de varios GB/s y es exclusivo de un sistema operativo.;2;2;Opcion multiple;5;1
+57;En los dispositivos de almacenamiento óptico, de forma general lo que se lee son______:;1;1;Opcion multiple;5;1
+58;Uno de los avances más importantes (el mejor avance) del DVD con respecto al CD fue _______:;1;1;Opcion multiple;5;1
+59;Un dispositivo de seguridad usado en la década de los 50 fue:;2;2;Dicotomica;5;1
+60;El extinto disquete de 3.5” tipo DS/ED (doble cara/densidad extra) tenía una capacidad máxima de:;2;2;Opcion multiple;5;1
+61;Un ejemplo de red de área personal PAN es:;1;1;Opcion multiple;6;1
+62;Un ejemplo de red de área personal PAN es:;3;3;Dicotomica;6;1
+63;La topología de red más usada en la actualidad es __________.;1;1;Opcion multiple;6;1
+64;El modelo OSI (Open Systems Interconnection) es __________.;3;3;Opcion multiple;6;1
+65;La capa de __________, permite controlar algunos parámetros de calidad de servicio, por ejemplo, en los servicios de telefonía IP que no se admite desorden en la entrega/recepción de paquetes de información.;2;2;Opcion multiple;6;1
+66;Una de las tareas de la capa de presentación es ____________.;1;1;Opcion multiple;6;1
+67;Uno de los protocolos de transmisión más utilizados en las redes tipo WAN es ______________.;3;3;Opcion multiple;6;1
+68;La dirección de acceso al control del medio (MAC), debe ser __________ para cada dispositivo.;1;1;Opcion multiple;6;1
+69;Uno de los conectores que utiliza el cable coaxial es __________.;1;1;Opcion multiple;6;1
+70;La ____________ de cable trenzado más utilizado en redes tipo Ethernet, este no añade ningún tipo de sistema para reducir la interferencia.;2;2;Opcion multiple;6;1
+71;Si necesita amplificar una señal de datos a una o varias salidas y alcanzar grandes distancias, se recomienda utilizar.;2;2;Opcion multiple;6;1
+72;Para crear, organizar y segmentar una red así también evaluar la dirección MAC de los dispositivos, utilizaremos un;3;3;Dicotomica;6;1
+73;Para que la red Wifi sea segura, el método a implementar (quien puede ingresar y quien no) es.;3;3;Dicotomica;6;1
+74;¿Cuál es el concepto de lógica?;1;1;Opcion multiple;1;2
+75;¿Qué es un algoritmo?;1;1;Opcion multiple;1;2
+76;¿Cuál es la relación entre un algoritmo y la lógica de programación?;1;1;Opcion multiple;1;2
+77;¿Cuál es el objetivo principal de un algoritmo?;2;2;Opcion multiple;1;2
+78;¿Qué es un pseudocódigo?;2;2;Opcion multiple;1;2
+79;¿Cuál es la finalidad de probar un algoritmo?;2;2;Opcion multiple;1;2
+80;¿Cuál de los siguientes símbolos se utiliza para representar una operación aritmética en un diagrama de flujo? ;1;1;Opcion multiple;1;2
+81;¿Cuál es la diferencia entre un lenguaje de programación y un algoritmo?;3;3;Opcion multiple;1;2
+82;¿Cuál es el propósito principal de utilizar comentarios (//) en un algoritmo?;3;3;Opcion multiple;1;2
+83;¿Cuál de las siguientes opciones representa mejor el significado del símbolo de decisión en un diagrama de flujo?;2;2;Opcion multiple;1;2
+84;¿Qué se evalúa en el análisis de un diagrama de flujo? ;1;1;Opcion multiple;1;2
+85;¿Cuál de las siguientes opciones es una buena práctica al analizar un diagrama de flujo? ;2;2;Opcion multiple;1;2
+86;Un _________ realiza un conjunto de pasos cuya ejecución para dar la solución del problema puede ser ejecutada manualmente, mecánicamente o utiliza una máquina de procesamiento electrónico de datos.;2;2;Opcion multiple;1;2
+87;Generalmente son elaborados en las fases iniciales del ciclo de vida de desarrollo (análisis, diseño).;1;1;Opcion multiple;1;2
+88;La descripción “Son palabras dentro del lenguaje de programación que no podrán ser utilizadas más que en el sentido original en el que fueron creadas”. A cuál de las siguientes opciones hace referencia:;2;2;Opcion multiple;1;2
+89;Se desea almacenar el costo de un producto, ¿qué tipo de dato se debe usar, tomando en cuenta el contexto que se presenta?;2;2;Opcion multiple;2;2
+90;¿Cuál de las siguientes expresiones retorna un valor igual a True?;1;1;Opcion multiple;2;2
+91;La precedencia que se provoca mediante el uso de paréntesis se conoce como:;1;1;Opcion multiple;2;2
+92;"Los nombres de variables deben cumplir algunas reglas, del siguiente listado, indique cuales pertenecen a estas reglas:
+1. Siempre iniciar con letra 
+2. Puede contener caracteres especiales
+3. Contener espacio y caracteres especiales opcionalmente
+4. Puede contener vocales tildadas
+5. Máximo 32 caracteres de longitud
+6. Representativo al valor que guarda.";2;2;Opcion multiple;2;2
+93;Si costoProducto y precioProducto son variables numéricas y nombreProducto es una variable cadena. ¿Cuál de las siguientes declaraciones no es válida? ;2;2;Opcion multiple;2;2
+94;Identifique el orden de prioridad correcto para los siguientes operadores aritméticos.;1;1;Opcion multiple;2;2
+95;¿Cuál de las siguientes variables está nombrada de forma incorrecta?;1;1;Opcion multiple;2;2
+96;Una variable de tipo ___________ es aquella que puede contener dígitos y operaciones matemáticas que se efectúan en ellos. ;1;1;Opcion multiple;2;2
+97;El tipo de dato que puede admitir todos los valores de los números reales, positivos y negativos es:;1;1;Opcion multiple;2;2
+98;Los operadores que almacenan valores en una variable que pueden ser constantes o el resultado de una operación se denominan ______________.;2;2;Opcion multiple;2;2
+99;"Del siguiente listado de términos; indique la representación abstracta de tipos base correspondiente a cada uno de ellos; de las opciones propuestas
+
+1. Booleano
+2. Byte
+3. Cadena
+4. Entero";1;1;Opcion multiple;2;2
+100;Se desea almacenar una clave compuesta por 10 letras y 1 número. ¿Cuál es la mejor combinación posible para dar solución a lo planteado?;2;2;Opcion multiple;2;2
+101;SicostoProducto y precioProducto son variables numéricas y nombreProducto es una variable cadena. ¿Cuál de las siguientes declaraciones no es válida?;2;2;Opcion multiple;2;2
+102;SicostoProducto y precioProducto son variables numéricas y nombreProducto es una variable cadena. ¿Cuál de las siguientes declaraciones no es válida?;2;2;Opcion multiple;2;2
+103;"Considerando las reglas de operadores y precedencia, ¿cuál es el resultado de la siguiente expresión? 
+
+48 + 25 * 10 / 4 + 5";2;2;Opcion multiple;2;2
+104;¿Cuál es el orden correcto de las fases desarrollo de un programa?;1;1;Opcion multiple;3;2
+105;En el ciclo de desarrollo de un programa. ¿Cuál es la fase que se caracteriza por ser importante para el cliente, más que para el desarrollador?;1;1;Opcion multiple;3;2
+106;Si tenemos como entregable la aceptación del programa que hemos realizado. ¿A qué fase del ciclo de desarrollo de un programa estamos haciendo referencia?;1;1;Opcion multiple;3;2
+107;"Se desea desarrollar un algoritmo para calcular el costo de un terreno rectangular, cuyo valor se calcula multiplicando el área del terreno por el valor del metro cuadrado más el 5% de este valor que corresponde al pago de impuestos.
+
+El algoritmo es el siguiente:
+Inicio
+Se solicita las dimensiones del terreno (largo y ancho)
+Se calcula el área del terreno.
+Se calcula el valor del terreno.
+Se calcula el valor del impuesto.
+Se calcular el total sumando el valor del terreno + el impuesto calculado
+Fin.
+
+Evalúe el algoritmo y determine ¿qué información le falta para poder resolver el problema?";1;1;Opcion multiple;3;2
+108;Las primitivas de __________ son aquellas representadas por las variables que contienen los resultados de las operaciones de asignación. ;1;1;Opcion multiple;3;2
+109;Una ____________ es el paso siguiente al desarrollo de algoritmos. Es la representación abstracta y simbólica que muestra de mejor manera las operaciones que un programa debe hacer con los datos.;3;3;Opcion multiple;3;2
+110;¿Cuál de las siguientes opciones representa una declaración de variable en miniespecificación?. En algoritmo la declaración es: Decimal: nota1;2;2;Opcion multiple;3;2
+111;"Se requiere conocer el área de un rectángulo. Para esto se realiza la siguiente miniespecificación. 
+
+1.	Inicio
+2.	    area, altura, base, (d[0 – n])
+4.	    altura <-- 0, base <-- 0, area <-- 0
+5.	    << “Ingrese el altura del rectángulo”
+6.	    >> altura
+7.	    << “Ingrese la base del rectángulo”
+8.	    << base
+9.	    area <-- (base * altura)
+10.	    <<”El área del rectángulo es:”, +area
+12.	Fin
+
+
+Identifique la línea que contiene un error que no permite resolver el problema planteado.";2;2;Opcion multiple;3;2
+112;Cuál de las siguientes ideas es el concepto apropiado para describir una miniespecificación?;2;2;Opcion multiple;3;2
+113;Se necesita mostrar por pantalla el nombre de un estudiante, que se ha solicitado por teclado. Cuál sería la opción correcta, en base al problema dado.;1;1;Opcion multiple;3;2
+114;"Se requiere determinar el sueldo semanal de un trabajador con base en las horas que trabaja y el pago por hora que recibe. Identifique en la siguiente miniespecificación en la línea 8 faltante para completar la solución. 
+
+1.	Inicio
+2.	    horas_t, pago_hora, sueldo, (d[0 – n])
+4.	    horas_t <--  0, pago_hora <-- 0, sueldo <--  0
+5.	    << “Ingrese el número de horas de trabajo”
+6.	 >> horas_t
+7.	    << “Ingrese el pago por hora”
+8.	
+9.	    sueldo ? (horas_t * pago_hora)
+10.	    <<”El sueldo semanal es:”, +sueldo
+12.	Fin
+";1;1;Opcion multiple;3;2
+115;De las siguientes ideas cuál es el concepto apropiado para describir pruebas de escritorio?;1;1;Opcion multiple;3;2
+116;¿Cuál de las siguientes alternativas es la estructura lógica más utilizada cuando se quiere simular un menú de opciones? ;1;1;Opcion multiple;4;2
+117;¿Cuál de las siguientes instrucciones le permitirá incrementar el salario de un empleado en un 25% siempre y cuando gane 750 dólares o más.;2;2;Opcion multiple;4;2
+118;"En base a las siguientes expresiones, determinar qué estructura de decisión o control se está usando:
+
+Si  ((area >= 10)  or  (area ==50) entonces
+      << area <-- area + 1000
+Fin Si";2;2;Opcion multiple;4;2
+119;"Se desea generar un programa que permite obtener y presentar el cubo de un número, siempre y cuando el número sea menor a 60, caso contrario debería obtener y presentar el cuadrado del número indicado. 
+¿Cuál de las siguientes sentencias permite obtener el resultado deseado?
+
+
+
+
+
+
+""";1;1;Opcion multiple;4;2
+120;¿Cuál es la estructura en la que cada alternativa es disyuntiva y se ejecuta independiente de  las otras?;1;1;Opcion multiple;4;2
+121;"¿Cuál de las siguientes opciones de respuesta es equivalente a la siguiente estructura de decisión?
+
+Si x > 10 entonces 
+     Si y > 10 entonces
+          << “Cumple la condición”
+     Fin_Si
+Fin_Si	";1;1;Opcion multiple;4;2
+122;"""Si tenemos los valores dados para x y para z, que valor se presentará en pantalla, en base a las siguientes sentencias:
+
+x = True
+z = False
+
+Si x OR z entonces
+    << """"Ingreso Correcto""""
+De lo Contrario
+    << """"Ingreso Incorrecto""""
+Fin Si""";1;1;Opcion multiple;4;2
+123;"Se desea generar un programa que permite obtener y presentar el cubo de un número, siempre y cuando el número sea menor a 30, caso contrario debería obtener y presentar el cuadrado del número indicado. ¿Cuál de las siguientes sentencias permite obtener el resultado deseado?
+";2;2;Opcion multiple;4;2
+124;"La siguiente miniespecificación determina si un número es positivo o negatativo. En qué línea se encuentra un error que no permite resolver el problema.
+
+1.	Inicio
+2.	    numero (i[0 – n])
+3.	    resul (d[0 – n]
+4.	    numero <-- 0
+5.	    <<”Ingrese el valor el número”
+6.	    >>numero
+7.	    Si (numero >= 0) entonces 
+8.	        resul <-- “Positivo”
+9.	    Sino
+10.	        resul <-- “Negativo”
+11.	    Fin Si
+12.	    <<”El número es:”, +resul
+13.	Fin
+";2;2;Opcion multiple;4;2
+125;Almacenes “El traje” tiene una promocio?n: a todos los trajes que tienen un precio superior a $2500.00 se les aplicara? un descuento de 15%, a todos los dema?s se les aplicara? so?lo 8%. Determine cuál de las siguientes condiciones calcula cuánto  debe pagar una persona por comprar un traje y de cua?nto es el descuento que obtendra??. ;2;2;Opcion multiple;4;2
+126;"Almacenes “SuperMega” tiene la siguiente promoción:
+-	Por compras mayores a 300 dólares se les aplicara? un descuento de 15%
+-	Por compras mayores a 200 dólares hasta los 300 dólares se les aplicará un descuento del 10%.
+-	Por compras de 200 y menos se aplicara un descuento del 5%.
+
+¿Cuál de las siguientes condiciones calcula el precio total de la compra? Puede realizar una prueba de escritorio para resolver el problema.";3;3;Opcion multiple;4;2
+127;La condición ((numero % 2) ==  0) qué identifica?;2;2;Opcion multiple;4;2
+128;¿Qué son las estructuras selectivas?;3;3;Opcion multiple;4;2
+129;"En el siguiente algoritmo cuando ingresamos para la variable N el valor de 8 cuál es el mensaje que se imprime? 
+
+Inicio 
+     Leer N 
+     Si (N < 8) entonces
+          Escribir ""menor a 6"" 
+     Fin si 
+     Si (N >=8) entonces
+          Escribir ""mayor a 6"" 
+     Fin si 
+Fin ";1;1;Opcion multiple;4;2
+130;"¿Cuál de las siguientes opciones marcadas con letra es equivalente a la siguiente decisión?
+
+Si (x > 10) entonces
+     Si (y > 10) entonces
+          << “X”
+     Fin Si
+Fin Si ";1;1;Opcion multiple;4;2
+131;"¿Cuál es la salida para la siguiente miniespecificación?
+
+Inicio
+     d, i[1-n]
+     e, i[1-n]
+     f, i[1-n]
+
+     d <-- 4 
+     e <-- 6 
+     f <-- 7
+     Mientras (d > f) hacer 
+          d <-- d + 1 
+          e <-- e + 1
+    Fin_Mientras
+     << d 
+     << e
+     << f
+Fin";1;1;Opcion multiple;5;2
+132;"Si tenemos las siguientes sentencias de un programa.
+
+a <-- 10
+Mientras (a <= 5) Hacer
+    a <-- a + 1
+    << “El valor de a es:” + a
+Fin_Mientras
+
+¿Qué resultado de imprime en pantalla, al momento de ejecutar el programa?";1;1;Opcion multiple;5;2
+133;Se desea generar un programa que permite imprimir los números mayores a 5 y menores a 7, de un rango de números del 1 al 10. ¿Cuál de las siguientes sentencias realizan el proceso solicitado.?;2;2;Opcion multiple;5;2
+134;"""Si ejecuta el siguiente segmento de código y desarrolla las pruebas de escritorio ¿Qué secuencia de números se genera? 
+
+
+i<-- 0
+Mientras i<24 Hacer
+    Si (i%6 == 0) Entonces
+        << i
+    Fin Si
+    I <-- i + 3
+Fin Mientras""";;;Opcion multiple;5;2
+135;"Se necesita generar la siguiente secuencia: 
+5
+7
+9
+11
+13
+
+Cuál es el segmento de miniespecificación correcto, para llegar a la solución deseada?";1;1;Opcion multiple;5;2
+136;"Si ejecuta el siguiente segmento de código y desarrolla las pruebas de escritorio ¿Qué secuencia de números se genera? 
+
+i<-- 10
+Mientras (i > 1) hacer
+    << i
+    i <-- i - 1
+Fin mientras";2;2;Opcion multiple;5;2
+137;"¿En base a la siguiente estructura de control, indique cuál es el resultado que la misma imprimirá en pantalla?
+i <--- 0 
+Mientras i <= 5 hacer 
+     i <--- i + 1 
+     <<”El valor de i es:”, +i
+Fin_Mientras";1;1;Opcion multiple;5;2
+138;¿Cuál de las siguientes instrucciones permite la impresión de los números pares menores a 10?;1;1;Opcion multiple;5;2
+139;"Las siguientes sentencias imprimen los numero del 1 al 20, que se necesita cambiar en la estructura de la mismo para que se convierta en un ciclo infinito.
+
+1.	Inicio 
+2.	     (numero1, i[1-n])
+3.	      numero1 <--- 1
+4.	      Mientras numero1 <= 20 hacer 
+5.	              << numero1
+6.	             numero1 <--- numero1 + 1
+7.	      Fin_Mientras
+8.	Fin";2;2;Opcion multiple;5;2
+140;Se desea desarrollar un programa que imprima los números impares y la suma los números impares de 1-10. ¿Cuál de las siguientes instrucciones, permite obtener el resultado deseado?;1;1;Opcion multiple;5;2
+141;La estructura que le permite escribir un conjunto de instrucciones que opere en mu?ltiples conjuntos de datos separados es ______________:;1;1;Opcion multiple;5;2
+142;"¿Qué salida genera el siguiente segmento de programa?
+
+Mientras 5 > 3 hacer 
+     <<”El tres es mayor que cinco”
+Fin_Mientras
+    <<”Proceso terminado”";2;2;Opcion multiple;5;2
+143;"Dado el siguiente algoritmo, determine cuál sería el resultado final de la variable n, si el valor de n empieza en 1.
+
+1.	Inicio
+2.	     (n, i([0-n])
+3.	     (f, i([0-n])
+4.	     (c, i([0-n])
+5.	     >>num1
+6.	     << ”<Ingrese un número”
+7.	     >>n
+8.	     c <--- n
+9.	     f <--- 1
+10.	     Mientras (f <= c) hacer
+11.	          n <--- n + f
+12.	          f <--- f + 1
+13.	     Fin Mientras 
+14.	     <<n
+15.	Fin";2;2;Opcion multiple;5;2
+144;La estructura que le permite escribir un conjunto de instrucciones que opere en mu?ltiples conjuntos de datos separados es ______________:;1;1;Opcion multiple;5;2
+145;Una variable que presenta solo totales, sin detalles sobre valores individuales, es una variable ____________. ;3;3;Opcion multiple;5;2
+146;"¿Cuál es la salida para la siguiente miniespecificación?
+
+Inicio
+     d, i[1-n]
+     e, i[1-n]
+     f, i[1-n]
+
+     d <-- 4 
+     e <-- 6 
+     f <-- 7
+     Mientras (d > f) hacer 
+          d <-- d + 1 
+          e <-- e + 1
+    Fin_Mientras
+     << d 
+     << e
+     << f
+Fin";1;1;Opcion multiple;6;2
+147;"Si tenemos las siguientes sentencias de un programa.
+
+a <-- 10
+Mientras (a <= 5) Hacer
+    a <-- a + 1
+    << “El valor de a es:” + a
+Fin_Mientras
+
+¿Qué resultado de imprime en pantalla, al momento de ejecutar el programa?";3;3;Opcion multiple;6;2
+148;Se desea generar un programa que permite imprimir los números mayores a 5 y menores a 7, de un rango de números del 1 al 10. ¿Cuál de las siguientes sentencias realizan el proceso solicitado.?;2;2;Opcion multiple;6;2
+149;"""Si ejecuta el siguiente segmento de código y desarrolla las pruebas de escritorio ¿Qué secuencia de números se genera? 
+
+
+i<-- 0
+Mientras i<24 Hacer
+    Si (i%6 == 0) Entonces
+        << i
+    Fin Si
+    I <-- i + 3
+Fin Mientras""";1;1;Opcion multiple;6;2
+150;"Se necesita generar la siguiente secuencia: 
+5
+7
+9
+11
+13
+
+Cuál es el segmento de miniespecificación correcto, para llegar a la solución deseada?";3;3;Opcion multiple;6;2
+151;"Si ejecuta el siguiente segmento de código y desarrolla las pruebas de escritorio ¿Qué secuencia de números se genera? 
+
+i<-- 10
+Mientras (i > 1) hacer
+    << i
+    i <-- i - 1
+Fin mientras";1;1;Opcion multiple;6;2
+152;"¿En base a la siguiente estructura de control, indique cuál es el resultado que la misma imprimirá en pantalla?
+i <--- 0 
+Mientras i <= 5 hacer 
+     i <--- i + 1 
+     <<”El valor de i es:”, +i
+Fin_Mientras";1;1;Opcion multiple;6;2
+153;¿Cuál de las siguientes instrucciones permite la impresión de los números pares menores a 10?;2;2;Opcion multiple;6;2
+154;"Las siguientes sentencias imprimen los numero del 1 al 20, que se necesita cambiar en la estructura de la mismo para que se convierta en un ciclo infinito.
+
+1.	Inicio 
+2.	     (numero1, i[1-n])
+3.	      numero1 <--- 1
+4.	      Mientras numero1 <= 20 hacer 
+5.	              << numero1
+6.	             numero1 <--- numero1 + 1
+7.	      Fin_Mientras
+8.	Fin";2;2;Opcion multiple;6;2
+155;Se desea desarrollar un programa que imprima los números impares y la suma los números impares de 1-10. ¿Cuál de las siguientes instrucciones, permite obtener el resultado deseado?;2;2;Opcion multiple;6;2
+156;La estructura que le permite escribir un conjunto de instrucciones que opere en mu?ltiples conjuntos de datos separados es ______________:;1;1;Opcion multiple;6;2
+157;"¿Qué salida genera el siguiente segmento de programa?
+
+Mientras 5 > 3 hacer 
+     <<”El tres es mayor que cinco”
+Fin_Mientras
+    <<”Proceso terminado”";3;3;Opcion multiple;6;2
+158;"Dado el siguiente algoritmo, determine cuál sería el resultado final de la variable n, si el valor de n empieza en 1.
+
+1.	Inicio
+2.	     (n, i([0-n])
+3.	     (f, i([0-n])
+4.	     (c, i([0-n])
+5.	     >>num1
+6.	     << ”<Ingrese un número”
+7.	     >>n
+8.	     c <--- n
+9.	     f <--- 1
+10.	     Mientras (f <= c) hacer
+11.	          n <--- n + f
+12.	          f <--- f + 1
+13.	     Fin Mientras 
+14.	     <<n
+15.	Fin";3;3;Opcion multiple;6;2
+159;La estructura que le permite escribir un conjunto de instrucciones que opere en mu?ltiples conjuntos de datos separados es ______________:;3;3;Opcion multiple;6;2
+160;Una variable que presenta solo totales, sin detalles sobre valores individuales, es una variable ____________. ;3;3;Opcion multiple;6;2
+161;Las principales características del aprendizaje autónomo son:;1;1;Opcion multiple;1;3
+162;En el aprendizaje autónomo se considera;1;1;Opcion multiple;1;3
+163;Las variables que influyen en la calidad y cantidad del aprendizaje que consisten en los factores externos al estudio son:;2;2;Opcion multiple;1;3
+164;Un estudiante ha empezado su primer ciclo de la tecnología en Transformación digital en empresas, el proceso para realizar su plan de estudios consiste en:;1;1;Opcion multiple;1;3
+165;La actividad de juego de roles, es utilizada en el estilo de aprendizaje:;2;2;Opcion multiple;1;3
+166;El estilo de aprendizaje donde se realizan actividades como resolver problemas de aplicación práctica y se hace socializaciones, para resolver dudas y debatir ideas es:;3;3;Opcion multiple;1;3
+167;Para lograr el aprendizaje del tema de programación “aplicación web básica en AWS”, el estudiante aprende mejor mediante experiencias, ¿Qué actividad podría realizar para lograr el aprendizaje?;3;3;Opcion multiple;1;3
+168;Para lograr el aprendizaje del tema de modelos de negocio digital, considerando que el estudiante aprende a través de la planificación y sintetización de la información, ¿Qué actividad podría realizar para lograr el aprendizaje?;2;2;Opcion multiple;1;3
+169;María se está preparando para el examen de la asignatura de Negocios Digitales, indique ¿Cuál de las siguientes opciones influye para que no se pueda mantener la concentración?;1;1;Opcion multiple;1;3
+170;El Estilo de aprendizaje se refiere al hecho de que cuando queremos aprender algo cada uno utilizamos nuestros propios métodos o conjunto de estrategias y habilidades para procesar, aprender y entender la información. Para lo cual nos apoyamos de diferentes factores que intervienen en cada uno.  Indiqué ¿cuál de las siguientes opciones es una diferencia entre los estilos de aprendizaje?;2;2;Opcion multiple;1;3
+171;La Lectura comprensiva se define como:;3;3;Opcion multiple;2;3
+172;"La técnica que permite expresar, organizar y representar la información de forma lógica y creativa, “cartografiando” las reflexiones sobre un tema; se utilizan líneas, símbolos, palabras, e imágenes para ilustrar conceptos sencillos y lógicos es:";3;3;Opcion multiple;2;3
+173;A qué técnica de estudio corresponde la siguiente definición: “La técnica de estudio que apoya a realizar una lectura atenta y del análisis de contenido”;2;2;Opcion multiple;2;3
+174;Un escrito que se utiliza para sintetizar las ideas más resaltantes de un texto de forma concisa, organizada y coherente, manteniéndose leal a los conceptos presentados en los documentos originales, es la definición de;1;1;Opcion multiple;2;3
+175;¿Cuál de las siguientes opciones, indica el proceso correcto de las actividades que apoyan a la realización de una lectura comprensiva y conseguir los objetivos de aprendizaje propuestos?;2;2;Opcion multiple;2;3
+176;¿Cuál de las siguientes declaraciones es verdadera sobre el resumen y el cuadro sinóptico?;3;3;Opcion multiple;2;3
+177;"A qué tipo de paráfrasis corresponde el siguiente ejemplo: Frase: “La risa es el sol que ahuyenta el invierno del rostro humano”. (Víctor Hugo).
+Paráfrasis: Sonreír ayuda a aliviar las penas";1;1;Opcion multiple;2;3
+178;La semejanza entre la paráfrasis mecánica y la paráfrasis constructiva consiste en;2;2;Opcion multiple;2;3
+179;¿Cuál de las siguientes declaraciones es falsa respecto a los niveles de comprensión lectora?;3;3;Opcion multiple;2;3
+180;¿Cuál de las siguientes aseveraciones es correcta?;2;2;Opcion multiple;2;3
+181;El árbol de problemas es una: ;3;3;Opcion multiple;3;3
+182;Las raíces de un árbol de problemas son:;3;3;Opcion multiple;3;3
+183;Un póster es: ;3;3;Opcion multiple;3;3
+184;Los lectores del póster realizan la lectura de la información: ;2;2;Opcion multiple;3;3
+185;¿Qué podemos inferir de la siguiente característica de un póster: “El máximo recomendable de un póster son 800 palabras” ?;1;1;Opcion multiple;3;3
+186;En un póster, la identificación de los puntos novedosos y elementos de atracción, hace referencia a: ;3;3;Opcion multiple;3;3
+187;La transformación de las ideas en una nueva realidad hace referencia a que: ;3;3;Opcion multiple;3;3
+188;La dicción es importante para el proceso de comunicación del póster porque: ;2;2;Opcion multiple;3;3
+189;La fluidez es importante para el proceso de comunicación del póster porque:;3;3;Opcion multiple;3;3
+190;El uso de gestos es importante en el proceso de comunicación del póster porque:;2;2;Opcion multiple;3;3
+191;La contextualización de una exposición exitosa se realiza considerando:;3;3;Opcion multiple;4;3
+192;Preparar el formato de una presentación implica:;2;2;Opcion multiple;4;3
+193;Los elementos relacionados con la sustancia de una presentación exitosa son:;3;3;Opcion multiple;4;3
+194;En el proceso de preparación de una presentación, realizar procesos de pensamiento que combinen la imaginación para plantear ideas sobre el problema, corresponde a:;2;2;Opcion multiple;4;3
+195;Para elaborar las diapositivas, utilizar contrastes de color entre texto y fondos ayuda a:;3;3;Opcion multiple;4;3
+196;Para la grabación de una presentación es necesario:;2;2;Opcion multiple;4;3
+197;Cuando se quiere grabar un discurso persuasivo se debe:;2;2;Opcion multiple;4;3
+198;En el proceso de preparación de una presentación, seleccionar la mejor opción y desarrollar y plan de implementación, corresponde a;3;3;Opcion multiple;4;3
+199;En el proceso de preparación de una presentación, realizar una lluvia de ideas y organizarlas para analizar soluciones potenciales, corresponde a:;2;2;Opcion multiple;4;3
+200;En el proceso de preparación de una presentación, implementar el plan hasta tener una versión real de la presentación, corresponde a:;3;3;Opcion multiple;4;3

@@ -1,0 +1,1095 @@
+id;correcta;texto;pregunta_id
+1;1;Digital Versatile Disk;1
+2;0;Domestic Versatile Data;1
+3;0;Digital Video Disc;1
+4;0;Firmware que hace que un equipo funcione correctamente.;2
+5;1;Software o conjunto de programas que hace que los programas de usuarios funcionen en un hardware determinado;2
+6;0;Software o hardware que permite que un equipo funcione mínimamente.;2
+7;1;Todos aquellos elementos (hardware y software) que son necesarios para procesar información y realizar una función determinada;3
+8;0;Aplicaciones informáticas que puede constar de uno o varios programas. En el caso de que sean varios programas se suele llamar suite o paquete.;3
+9;0;Elementos tangibles (que se pueden tocar) de un sistema microinformático.;3
+10;0;Es un programa que se almacena en la RAM cuando se apaga el equipo.;4
+11;0;Es un programa que se ejecuta si al arrancar el ordenador se pulsa la tecla “del” o “supr”.;4
+12;1;Es un programa que almacena las principales configuraciones del sistema, además permite el arranque de sistema operativo en memoria.;4
+13;0;LILO;5
+14;1;Central Boot;5
+15;0;NTLDR;5
+16;0;La función de toda pila es convertir la energía química en energía eléctrica.;6
+17;0;Los transistores aparecen hoy en día en los microprocesadores;6
+18;1;Un diodo permite el flujo de corriente eléctrica en ambos sentidos.;6
+19;0;Resistir la temperatura;7
+20;0;Almacenar la energía;7
+21;1;Consumir Potencia;7
+22;0;Componentes electrónicos que interactúan con el ordenador.;8
+23;1;Permiten almacenar energía.;8
+24;0;Permite el flujo de corriente.;8
+25;0;Read Only Memory (memoria de solo lectura).;9
+26;1;Random Open Memory;9
+27;0;Read Of Memory;9
+28;1;Software que contiene el hardware;10
+29;0;Un acceso a la memoria principal;10
+30;0;Un conductor de energía.;10
+31;1;Un circuito lógico que responde y procesa las operaciones lógicas y aritméticas que hacen funcionar a nuestras computadoras.;11
+32;0;Es un sistema de protección del contenido digital de elevado ancho de banda.;11
+33;0;Se encarga de conservar los datos de la BIOS.;11
+34;1;Se aplica luz ultravioleta sobre la oblea a través de una plantilla.;12
+35;0;Se aplica electricidad sobre la oblea.;12
+36;0;Se conserva energía en la oblea.;12
+37;1;Gestiona y controla el funcionamiento de todos los dispositivos de tu ordenador. En ella o van conectados los elementos directamente o los que no están conectados en ella directamente van conectados a ella a través de los Buses (cables).;13
+38;0;Se encarga de almacenar los datos de la pila.;13
+39;0;Gestiona la energía de los condensadores.;13
+40;0;Un sistema de comunicación digital;14
+41;1;Un sistema de protección del contenido digital de elevado ancho de banda;14
+42;0;Un procesamiento de señal analógica;14
+43;1;Conservar los datos de la BIOS cuando el ordenador está apagado;15
+44;0;Conserva los datos de la BIOS cuando el ordenador está encendido.;15
+45;0;Eliminar los datos de la BIOS.;15
+46;0;El elemento del equipo que envía al mouse la información que debe salir por la BIOS.;16
+47;1;El elemento del equipo que envía al monitor la información que debe salir por pantalla;16
+48;0;El elemento del equipo que envía al teclado mouse la información que debe salir por la CPU.;16
+49;0;Se encargan de guardar la data en la BIOS.;17
+50;1;Se encargan de gestionar los núcleos, lo que hace que se pueda procesar mucha información al mismo tiempo lo cual redunda en la velocidad de la tarjeta.;17
+51;0;Se encargan de gestionar el acceso a la RAM.;17
+52;1;De las tarjetas gráficas;18
+53;0;De la BIOS.;18
+54;0;De la pila.;18
+55;1;Conectarlos a un dispositivo, periférico, o añadir algún componente interno para mejorar nuestro equipo computacional.;19
+56;0;Conectar únicamente el BIOS.;19
+57;0;Conectar únicamente dispositivos externos.;19
+58;1;Basic Input Output System;20
+59;0;Basic Input System Output;20
+60;0;System Output Input Basic;20
+61;1;Un circuito integrado con las características de interpretación y ejecución de datos.;21
+62;0;Un circuito integrado donde se almacena datos;21
+63;0;Una matriz de transistores que regula el flujo de corriente como un interruptor o amplificador;21
+64;0;Conductor;22
+65;1;Semiconductor;22
+66;0;Aislante;22
+67;0;La exposición del dispositivo con la luz artificial.;23
+68;0;La instalación de disipadores como ventiladores y refrigeración “activa”;23
+69;1;Conexiones eléctricas entre transistores y la velocidad de transmisión;23
+70;0;La marca del microprocesador, es decir, unos trabajan con 32 bits y otros con 64 bits;24
+71;1;Es la cantidad de memoria con la que pueden trabajar, 32 bits pueden trabajar hasta 4 GB de memoria, mientras que con 64 bits sería hasta 16 TB;24
+72;0;La cantidad de memoria cache que pueden utilizar con la finalidad de reducir el número de procesos;24
+73;0;Velocidad del bus y BCLK;25
+74;1;RAM estática;25
+75;0;microprocesadores con núcleo múltiple.;25
+76;0;Es la memoria cache que usa el microprocesador;26
+77;0;Son los pines del microprocesador;26
+78;1;Se lo conoce así al núcleo del microprocesador;26
+79;1;Son conocidas como caches secundarias y son más lentas que la memoria cache L1.;27
+80;0;Son conocidas como caches secundarias y son más rápidas que la memoria cache L1.;27
+81;0;Son conocidas como caches secundarias y son más rápidas que la memoria cache L1.;27
+82;0;Su fabricación requiere que se usen velocidades de reloj más bajas, con la finalidad de ser refrigerados y no elevar su costo.;28
+83;1;En equipos móviles se agrupan los núcleos en alto rendimiento y consumo, y otros grupos en bajo rendimiento y consumo.;28
+84;0;La cantidad de calor total a disipar.;28
+85;0;Que llegará el día donde esta “ley” se frene, debido a que será físicamente imposible colocar los 38x109 de transistores.;29
+86;0;La capacidad de satisfacer esta frase de los fundadores de la empresa Intel.;29
+87;1;La fuerza de desarrollo de la industria de los semiconductores, es decir, nuevos diseños nuevos materiales de construcción, menor tecnología de fabricación, entre otros.;29
+88;0;La transmisión de datos en cada ciclo de reloj.;30
+89;1;Enviar las direcciones donde se encuentran los datos.;30
+90;0;Gestionar la petición de datos de memoria por el microprocesador.;30
+91;0;Existen señales de control como RAS y CAS para ayudar en el acceso a los datos.;31
+92;0;El fabricante de memoria garantiza que un módulo será capaz de trabajar de forma fiable.;31
+93;1;Cuanto menos tiempo se necesite para un ciclo de reloj, más rápido será la memoria.;31
+94;1;Al tiempo de retardo mínimo con el que es capaz de funcionar fiablemente una memoria a cierta velocidad de bus.;32
+95;0;Al voltaje donde los módulos de memoria tienen un alto rendimiento, a pesar de consumir y necesitar más voltaje y sistemas de refrigeración.;32
+96;1;A la cantidad máxima de memoria que puede enviarse por segundo.;32
+97;0;Costo de fabricación, sincronización y el voltaje de consumo.;33
+98;0;El tamaño, velocidad y el voltaje de consumo;33
+99;1;La sincronización, trabajo en ráfagas y organización de celdas independientes.;33
+100;0;DIP y TSOP.;34
+101;1;sTSOP y SOJ.;34
+102;0;sTSOP y SOJ.;34
+103;0;Instalar más memoria RAM.;35
+104;0;Usar el disco duro para crear la memoria virtual.;35
+105;1;Usar software que sobrepase el límite de la memoria RAM.;35
+106;0;La BIOS;36
+107;1;Ranuras de memoria;36
+108;0;Zócalo;36
+109;0;DDR4;37
+110;0;DDR3;37
+111;1;Para todo tipo de memoria;37
+112;1;Mejorar la interfaz gráfica, a través de su diseño modular, personalizable con la finalidad de no generar carga en el sistema operativo.;38
+113;0;Administrar el espacio del disco duro, la memoria RAM con la finalidad de organizar la información que se genera en el ordenador.;38
+114;0;Controlar muchas funciones del ordenador como la interacción del microprocesador con la memoria, control de puertos internos y externos, tarjeta de sonido, controlador de red, entre otros.;38
+115;0;AGP;39
+116;0;PCI;39
+117;1;MCA;39
+118;0;IDE;40
+119;1;DVI;40
+120;0;VGA;40
+121;0;Discos externos;41
+122;1;Impresoras;41
+123;0;Parlantes;41
+124;0;Jumpers y conmutadores;42
+125;0;Controladores de red;42
+126;1;Módulo regulador de voltaje;42
+127;0;Los puertos COM1;43
+128;0;Canales DMA;43
+129;1;Canales IRQ;43
+130;0;S3;44
+131;1;G3;44
+132;0;S4;44
+133;0;SMBIOS;45
+134;1;IPMI;45
+135;0;WMI;45
+136;0;aleatoria;46
+137;0;constante;46
+138;1;dependen de sus características mecánicas;46
+139;0;Idéntica, distinta;47
+140;1;Distinta, distinta;47
+141;0;Distinta, idéntica.;47
+142;0;Mejorar la velocidad internar del disco duro.;48
+143;1;Alertar al usuario sobre posibles errores que pueden ser predecibles.;48
+144;0;Reducir los tiempos de latencia y de búsqueda de información.;48
+145;0;SAS;49
+146;0;FLASH;49
+147;1;SATA;49
+148;0;brazos actuadores;50
+149;1;platos;50
+150;0;cabezas lectoras;50
+151;0;Velocidad interna del disco;51
+152;0;Tiempo de espera y búsqueda de datos;51
+153;1;Capacidad del disco duro;51
+154;0;El uso de tipo de archivos en FAT32.;52
+155;1;El uso de tipo de archivos en FAT32.;52
+156;0;El uso de tipo de archivos en FAT32.;52
+157;0;El uso de tipo de archivos en FAT32.;53
+158;0;Usar el esquema de la tabla de particiones MBR, que solo permite direccionar a 232 bloques.;53
+159;1;La separación de los archivos de programas y de datos, con la finalidad de minimizar los riesgos de un fallo en una de las particiones.;53
+160;0;"El número de particiones; la copia de seguridad de los archivos de datos en";54
+161;1;"La forma de organizar la información; la desfragmentación en";54
+162;0;"Un conjunto de normas y procesos para almacenar la información; el proceso de formatear";54
+163;0;2 GB;55
+164;0;32 GB;55
+165;1;64 GB;55
+166;0;Thunderbolt;56
+167;1;eSATA;56
+168;0;USB 3.0;56
+169;0;Zonas planas llamadas land;57
+170;1;Marcas microscópicas llamadas pits;57
+171;0;La longitud de onda del rayo lasser.;57
+172;0;Usar otro color de presentación del dispositivo.;58
+173;0;Usar el mismo tipo de codificar los datos.;58
+174;1;Colocar dos capas de datos.;58
+175;1;Cinta magnética;59
+176;0;Blu-Ray;59
+177;0;Pen drive;59
+178;0;3.5 MB;60
+179;1;2.88 MB;60
+180;0;10 MB;60
+181;0;Conectar el computador, impresora, dispositivo móviles y más dispositivos entre sí.;61
+182;1;Conectar dos dispositivos móviles a través de Bluetooth;61
+183;0;Conectar dos redes de datos;61
+184;0;Anillo;62
+185;0;Punto a punto;62
+186;1;De bus;62
+187;1;Estrella;63
+188;0;Anillo;63
+189;0;De bus;63
+190;0;Es una norma que permite definir la topología de red a ser implementada en un proyecto de comunicación;64
+191;1;Es un estándar ISO, que sirve de referencia en proyectos de comunicación de red;64
+192;0;Es un estándar que define la manera de guardar e interactuar la información entre dispositivos;64
+193;0;Enlace de datos;65
+194;1;Red;65
+195;0;Sesión;65
+196;0;La seguridad, como encriptar o comprimir la información;66
+197;0;Organiza la información a ser transferida por el sistema físico.;66
+198;1;Comprobar que los datos siguen un flujo correcto y no ha sufrido alteraciones.;66
+199;1;TCP/IP;67
+200;0;HTTP;67
+201;0;Ethernet;67
+202;1;Única y es asignada por el fabricante.;68
+203;0;Múltiple y la asigna por el fabricante.;68
+204;0;Única y es asignada por el usuario.;68
+205;0;USB;69
+206;0;RJ-45;69
+207;1;BNC;69
+208;0;Categoría FTP 5 o 5e;70
+209;1;Categoría UTP 5 o 5e;70
+210;0;Categoría STP 5 o 5e;70
+211;1;Hubs;71
+212;0;Routers;71
+213;0;Routers;71
+214;0;Hubs;72
+215;1;Switch;72
+216;0;Firewalls;72
+217;0;WEP;73
+218;0;SSID;73
+219;1;WPA y WPA2;73
+220;0;La capacidad de programar;74
+221;1;La ciencia que estudia el razonamiento válido;74
+222;0;Un conjunto de instrucciones en un lenguaje de programación;74
+223;0;La habilidad para resolver problemas;74
+224;0;Un error en un programa;75
+225;0;Una lista de instrucciones en lenguaje natural;75
+226;0;Un conjunto de reglas matemáticas;75
+227;1;Una secuencia de pasos para resolver un problema;75
+228;0;No hay relación entre ambos conceptos;76
+229;0;La lógica de programación es un tipo de algoritmo;76
+230;0;Un algoritmo es una forma de representar la lógica de programación;76
+231;1;La lógica de programación ayuda a diseñar algoritmos;76
+232;1;Resolver problemas;77
+233;0;Hacer que un programa se ejecute más rápido;77
+234;0;Escribir código fuente;77
+235;0;Depurar errores de programación;77
+236;0;Un código fuente real en un lenguaje de programación;78
+237;0;Un tipo especial de algoritmo;78
+238;1;Una forma de representar un algoritmo utilizando lenguaje natural y estructuras similares a un lenguaje de;78
+239;0;Una instrucción errónea en un programa;78
+240;1;Verificar si el algoritmo es correcto y produce los resultados esperados.;79
+241;0;Acelerar el tiempo de ejecución del algoritmo.;79
+242;0;Reducir la legibilidad del algoritmo.;79
+243;0;Agregar nuevas funcionalidades al algoritmo.;79
+244;0;Rectángulo;80
+245;0;Círculo;80
+246;0;Rombo;80
+247;0;Flecha;80
+248;0;Un algoritmo es un lenguaje de programación específico;81
+249;1;Un lenguaje de programación es una forma de representar algoritmos;81
+250;0;Un algoritmo es más complejo que un lenguaje de programación;81
+251;0;No hay diferencia entre ambos conceptos;81
+252;1;Documentar y explicar el funcionamiento del algoritmo.;82
+253;0;Optimizar el rendimiento del algoritmo.;82
+254;0;Ocultar secciones de código a otros programadores.;82
+255;0;Evitar errores de sintaxis en el algoritmo.;82
+256;0;Realizar una entrada de datos. ;83
+257;0;Realizar una salida de datos.;83
+258;1;Realizar una comparación o evaluación.;83
+259;0;Realizar una operación matemática.;83
+260;0;La precisión de los cálculos realizados en el algoritmo.;84
+261;0;La legibilidad del algoritmo.;84
+262;0;La consistencia de los símbolos utilizados en el diagrama.;84
+263;1;La lógica y estructura del algoritmo.;84
+264;0;Identificar y corregir todos los errores gramaticales del algoritmo.;85
+265;0;Revisar si el algoritmo se ejecuta más rápido que otros algoritmos similares.;85
+266;0;Verificar si el diagrama de flujo cumple con los estándares de diseño gráfico.;85
+267;1;Identificar y corregir posibles problemas de lógica y flujo de control.;85
+268;0;Sistema;86
+269;0;Lenguaje de programación;86
+270;1;Algoritmo;86
+271;0;Dato;86
+272;1;Diagramas de flujo;87
+273;0;Lenguajes de programación;87
+274;0;Símbolo de datos;87
+275;0;Codificación;87
+276;0;Expresiones;88
+277;0;Estructuras de código;88
+278;1;Palabras reservadas;88
+279;0;Variables;88
+280;0;Byte;89
+281;1;Decimal;89
+282;0;Entero;89
+283;0;Cadena;89
+284;0;“C” = “c”;90
+285;1;7 >= 7;90
+286;0;4 + 5 = 9 - 1;90
+287;0;A <-- 5+ 32;90
+288;0;Posicional;91
+289;0;Implícita;91
+290;1;Explícita;91
+291;0;Lógica;91
+292;1;1,5,6;92
+293;0;1,2,5,6;92
+294;0;1,4,5;92
+295;0;1,2,3,4;92
+296;0;costoProducto <-- 100;93
+297;1;precioProducto <-- “24.95”;93
+298;0;costoProducto <-- precioProducto – 10;93
+299;0;nombreProducto <-- ”aceite”;93
+300;0;Negatividad, Exponenciación,  Multiplicación y División, Adición y Sustracción ;94
+301;0;Exponenciación, Negatividad,Adición y Sustracción,  Multiplicación y División;94
+302;1;Exponenciación, Negatividad, Multiplicación y División, Adición y Sustracción;94
+303;0;Negatividad, Exponenciación, Adición y Sustracción, Multiplicación y División ;94
+304;0;Nota;95
+305;0;NotaEstudiante;95
+306;1;Nota-estudiante;95
+307;0;Nota_estudiante;95
+308;1;Numérica;96
+309;0;Cadena;96
+310;0;Lógica;96
+311;0;Fecha;96
+312;0;Entero;97
+313;1;Real;97
+314;0;Cadena;97
+315;0;Booleano;97
+316;0;Aritméticos;98
+317;0;Relacionales o condicionales;98
+318;1;Asignación;98
+319;0;Lógicos;98
+320;0;1(l), 2(d), 3(x(n)), 4(i);99
+321;1;1(l), 2(b), 3(x(n)), 4(i);99
+322;0;1(l), 2(b), 3(x(n)), 4(f);99
+323;0;1(b), 2(l), 3(x(n)), 4(i);99
+324;0;x(11)[10{A-Z}, 2{0-9}];100
+325;0;x(11)[10{a-z}, 3{0-9}];100
+326;1;x(11)[10{A-Z}, 1{0-9}];100
+327;0;x(11)[7{A-Z}, 4{0-9}];100
+328;0;costoProducto = 50;101
+329;0;nombreProducto = “avena”;101
+330;1;precioProducto = $1,232.99;101
+331;0;precioProducto = 15,89;101
+332;0;nombreProducto = “44”;102
+333;0;costoProducto  + 20 = precioProducto;102
+334;1;precioProducto = nombreProducto;102
+335;0;costoProducto = 16,90;102
+336;0;110;103
+337;0;105,5;103
+338;1;115,5;103
+339;0;111,5;103
+340;0;Análisis, Codificación, Diseño, Pruebas e Implementación;104
+341;0;Codificación, Análisis, Diseño, Pruebas e Implementación.;104
+342;1;Análisis, Diseño, Codificación, Pruebas e Implementación;104
+343;0;Diseño, Codificación, Análisis, Pruebas e Implementación.;104
+344;1;Pruebas e Implementación;105
+345;0;Codificación;105
+346;0;Diseño;105
+347;0;Análisis;105
+348;0;Análisis;106
+349;0;Diseño;106
+350;1;Pruebas e Implementación;106
+351;0;Desarrollo;106
+352;0;El área del terreno.;107
+353;1;El costo por metro cuadrado.;107
+354;0;El valor del impuesto.;107
+355;0;El largo y el ancho del terreno;107
+356;0;Inicio;108
+357;0;Entrada;108
+358;1;Salida;108
+359;0;Proceso;108
+360;1;Miniespecificación;109
+361;0;Primitiva algorítmica;109
+362;0;Prueba de escritorio;109
+363;0;Variable;109
+364;1;nota1, d;110
+365;0;nota1, d[0 – n];110
+366;0;D nota1, [0 - n];110
+367;0;nota1 ;110
+368;0;Línea 4;111
+369;0;Línea 6;111
+370;1;Línea 8;111
+371;0;Línea 10;111
+372;0;Representación abstracta y simbólica entendible por el ser humano, que muestra los pasos del programa sin detallar las operaciones que un programa debe hacer con los datos.;112
+373;0;Representación abstracta y simbólica incomprendido por el ser humano, que muestra al máximo detalle las operaciones que un programa debe hacer con los datos.;112
+374;1;Representación abstracta y simbólica entendible por el ser humano, que muestra al máximo detalle las operaciones que un programa debe hacer con los datos.;112
+375;0;Ninguna de las anteriores;112
+376;0;"Inicio
+nom_estudiante, x(20)[{a-z}]
+   <<“Ingrese el nombre del estudiante”
+   >> nom_estudiante
+Fin";113
+377;0;"Inicio
+nom_estudiante, x(20)[{a-z}]
+     <<“Ingrese el nombre del estudiante”
+    << nom_estudiante
+    >> nom_estudiante
+Fin";113
+378;1;"Inicio
+nom_estudiante, x(20)[{a-z}]
+     <<“Ingrese el nombre del estudiante”
+     >> nom_estudiante
+     << nom_estudiante
+Fin";113
+379;0;"""Inicio
+nom_estudiante, x(20)[{a-z}]
+   >> nom_estudiante
+Fin""";113
+380;0;8.  <<pago_hora;114
+381;1;8.  >>pago_hora;114
+382;0;8.  pago_hora;114
+383;0;Ninguna de las anteriores;114
+384;1;Son pruebas manuales que se encargan de visualizar el comportamiento de los estados de las variables en el transcurso de la ejecución de un programa.;115
+385;0;Son pruebas automáticas que se encargan de visualizar el comportamiento de los estados de las variables en el transcurso de la ejecución de un programa.;115
+386;0;Son pruebas automáticas que se encargan de visualizar si están bien definidas las estructuras selectivas de un programa.;115
+387;0;Ninguna de las anteriores;115
+388;1;Estructura lógica Dependiendo-De ;116
+389;0;Estructura lógica Condicional compuesta;116
+390;0;Estructura lógica condiconal simple;116
+391;0;Estructura lógica Repetitiva;116
+392;1;"Si salario >= 750 entonces   
+salario <-- salario + (salario * 0.25)
+Fin Si";117
+393;0;"Si salario >= 750 entonces   
+      salario <-- (salario * 0.25)
+Fin Si";117
+394;0;"Si (salario > 750) entonces  
+salario <-- salario + (salario * 0.25)
+Fin Si";117
+395;0;"Si (salario >= 750) entonces  
+salario <-- salario - (salario * 0.25)
+Fin Si";117
+396;1;Condicional simple;118
+397;0;Condicional compuesta;118
+398;0;Acumulador;118
+399;0;Ciclo repetitivo;118
+400;1;"Si numero < 60 entonces
+    cuadrado <-- numero ^ 3
+    << cuadrado
+Sino
+    cubo <-- numero ^ 2
+    << cubo
+Fin Si";119
+401;0;"Si numero < 60 entonces
+    cuadrado <-- numero ^ 2
+    << cuadrado
+Sino
+    cubo <-- numero ^ 3
+    << cubo
+Fin Si";119
+402;0;"Si numero <= 60 entonces
+    cuadrado <-- numero ^ 3
+    << cuadrado
+Sino
+    cubo <-- numero ^ 2
+    << cubo
+Fin Si";119
+403;0;"Si numero > 60 entonces
+    cuadrado <-- numero ^ 3
+    << cuadrado
+Sino
+    cubo <-- numero ^ 2
+    << cubo
+Fin Si";119
+404;1;Estructura condicional Dependiendo-De ;120
+405;0;Estructura condicional simple;120
+406;0;Estructura condicional compuesta;120
+407;0;Estructura condicional anidada;120
+408;1;Si x > 10  AND  y > 10 entonces ”Cumple la condicion”;121
+409;0;Si x > 10  AND   x > y entonces ”Cumple la condicion”;121
+410;0;Si y > x  entonces ”Cumple la condicion”;121
+411;0;Si x > y  entonces ”Cumple la condicion”;121
+412;1;“Ingreso Correcto”;122
+413;0;“Ingreso Incorrecto”;122
+414;0;“Ingreso Correcto” e “Ingreso Incorrecto”;122
+415;0;No de puede determinar;122
+416;1;"Si numero < 30 entonces
+    valor <-- numero ^ 3
+    << valor
+De lo Contrario
+    valor <-- numero ^ 2
+    << valor
+Fin Si";123
+417;0;"Si numero < 30 entonces
+    valor <-- numero ^ 2
+    << valor
+De lo Contrario
+    valor <-- numero ^ 3
+    << valor
+Fin Si";123
+418;0;"Si numero <= 30 entonces
+    valor <-- numero ^ 3
+    << valor
+De lo Contrario
+    valor <-- numero ^ 2
+    << valor
+Fin Si";123
+419;0;"Si numero > 30 entonces
+    valor <-- numero ^ 2
+    << valor
+De lo Contrario
+    valor <-- numero ^ 3
+    << valor
+Fin Si";123
+420;1;Línes 3;124
+421;0;Línea 12;124
+422;0;Línea 7;124
+423;0;Línea 6;124
+424;1;"Si precio <= 2500 entonces
+descuento <-- 0.08
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     descuento <-- 0.15
+     totalPagar <-- (precio - (precio * descuento))
+Fin Si";125
+425;0;"Si precio < 2500 entonces
+     descuento <-- 0.15
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     descuento <-- 0.08
+     totalPagar <-- (precio - (precio * descuento))
+Fin Si";125
+426;0;"Si precio > 2500 entonces
+     descuento <-- 0.15
+     totalPagar <-- (precio + (precio * descuento))
+Sino
+     descuento <-- 0.08
+     totalPagar <-- (precio + (precio * descuento))
+Fin Si";125
+427;0;"Si precio > 2500 entonces
+     descuento <-- 0.08
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     descuento <-- 0.15
+     totalPagar <-- (precio - (precio * descuento))
+Fin Si";125
+428;1;"Si totalCompra <= 200 entonces
+     descuento <-- 0.05
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     Si (totalCompra > 200) &&   (totalCompra <= 300) entonces
+          descuento <-- 0.10
+          totalPagar <-- (precio - (precio * descuento))
+     Sino
+          Si totalCompra > 300 entonces
+               descuento <-- 0.15
+               totalPagar <-- (precio - (precio * descuento))
+          Fin Si
+     Fin Si
+Fin Si";126
+429;0;"Si totalCompra < 200 entonces
+     descuento <-- 0.05
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     Si (totalCompra >= 200) && (totalCompra <= 300) entonces
+          descuento <-- 0.10
+          totalPagar <-- (precio - (precio * descuento))
+     Sino
+          Si totalCompra >= 300 entonces
+               descuento <-- 0.10
+                totalPagar <-- (precio - (precio * descuento))
+          Fin Si
+    Fin Si
+Fin Si";126
+430;0;"Si totalCompra <= 200 entonces
+     descuento <-- 0.10
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     Si (totalCompra > 200) && (totalCompra <= 300) entonces
+          descuento <-- 0.15
+          totalPagar <-- (precio - (precio * descuento))
+     Sino
+          Si totalCompra > 300 entonces
+               descuento <-- 0.05
+               totalPagar <-- (precio - (precio * descuento))
+          Fin Si
+     Fin Si
+Fin Si";126
+431;0;"Si totalCompra <= 200 entonces
+     descuento <-- 0.15
+     totalPagar <-- (precio - (precio * descuento))
+Sino
+     Si (totalCompra > 200) && (totalCompra <= 300) entonces
+          descuento <-- 0.05
+          totalPagar <-- (precio - (precio * descuento))
+     Sino
+          Si totalCompra > 300 entonces
+               descuento <-- 0.10
+               totalPagar <-- (precio - (precio * descuento))
+          Fin Si
+     Fin Si
+Fin Si";126
+432;1;Si un número es par;127
+433;0;Si un número es primo;127
+434;0;Si un número es positivo;127
+435;0;Si un número es impar;127
+436;1;Son enunciados de los cuales nos permiten seleccionar o elegir una respuesta o varias.;128
+437;0;Son respuestas que nos permiten seleccionar de muchas respuestas.;128
+438;0;Son enunciados que tienen dos o más alternativas.;128
+439;0;Son variables con un valor único.;128
+440;1;Ninguna;129
+441;0;Mayor a 6;129
+442;0;Igual a 6;129
+443;0;Menor a 6;129
+444;1;"Si (x > 10) AND (y > 10) entonces
+     << “X”
+Fin Si";130
+445;0;"Si (x > 10) OR (y > 10) entonces
+     << “X”
+Fin Si ";130
+446;0;"Si (y > X) entonces
+     << “X”
+Fin Si";130
+447;0;"Si NOT (y > X) entonces
+     << “X”
+Fin Si";130
+448;1;Salida --> 4, 6, 7;131
+449;0;Salida --> 5, 22, 5;131
+450;0;Salida --> 5, 9, 9;131
+451;0;Salida --> 4, 8, 9;131
+452;1;No imprime ningún valor;132
+453;0;Imprime: El valor de a es 1;132
+454;0;Imprime: El valor de a es 5;132
+455;0;Imprime: El valor de a es 10;132
+456;1;"n <-- 1
+Mientras (n <= 10) Hacer
+    Si (n > 5) AND (n < 7) Entonces
+        << n
+    Fin Si
+    n <-- n + 1
+Fin Mientras";133
+457;0;"n <-- 11
+Mientras (n <= 10) Hacer
+    Si (n > 5) AND (n < 7) Entonces
+        << n
+    Fin Si
+    n <-- n + 1
+Fin Mientras";133
+458;0;"n <-- 1
+Mientras (n <= 10) Hacer
+    Si (n > 5) AND (n < 7) Entonces
+        >> n
+    Fin Si
+    n <-- n + 1
+Fin Mientras";133
+459;0;"n <-- 11
+Mientras (n >= 10) Hacer
+    Si (n > 5) OR (n < 7) Entonces
+        << n
+    Fin Si
+    n <-- n + 1
+Fin Mientras";133
+460;1;0,6,12,18;134
+461;0;6,12,18,24;134
+462;0;0,6,12,18,24;134
+463;0;0,3, 6, 9, 12;134
+464;1;"i <-- 0
+Mientras (i < 10) hacer
+    Si (i % 2) ==0 entonces
+        valor <-- i + 5
+        << valor
+    Fin si
+    i <-- i + 2
+Fin Mientras";135
+465;0;"i <-- 0
+Mientras (i < 10) hacer
+    Si (i % 2) == 0 entonces
+        valor <-- i + 5
+        << valor
+    Fin si
+    i <-- i + 5
+Fin Mientras";135
+466;0;"i <-- 0
+Mientras (i <=10) hacer
+    Si (i % 2==0) entonces
+        valor <-- i + 5
+        << valor
+     Fin si
+    i <-- i + 2
+Fin Mientras";135
+467;0;"i <-- 0
+Mientras (i >= 10) hacer
+    Si (i % 2) == 0 entonces
+        valor <-- i + 2
+        << valor
+    Fin si
+    i <-- i + 5
+Fin Mientras";135
+468;1;"10
+9
+8
+7
+6
+5
+4
+3
+2";136
+469;0;"10
+9
+8
+7
+6
+5
+4
+3
+2
+1";136
+470;0;"9
+8
+7
+6
+5
+4
+3
+2";136
+471;0;"8
+7
+6
+5
+4
+3
+2
+1
+0";136
+472;1;"El valor de i es: 1
+El valor de i es: 2
+El valor de i es: 3
+El valor de i es: 4
+El valor de i es: 5
+El valor de i es: 6";137
+473;0;"El valor de i es: 1
+El valor de i es: 2
+El valor de i es: 3
+El valor de i es: 4
+El valor de i es: 5";137
+474;0;"El valor de i es: 2
+El valor de i es: 3
+El valor de i es: 4
+El valor de i es: 5";137
+475;0;"El valor de i es: 3
+El valor de i es: 4
+El valor de i es: 5";137
+476;1;"Inicio 
+     (numero1, i[1-n])
+     numero1 <--- 1 
+     Mientras numero1 < 10 hacer 
+          Si ((numero1 % 2) == 0) entonces
+               << numero1
+          Fin Si
+          numero1 <--- numero1 + 1
+     Fin_Mientras
+Fin";138
+477;0;"Inicio 
+     (numero1, i[1-n])
+     numero1 <--- 1 
+     Mientras numero1 <= 10 hacer 
+          Si ((numero1 % 2) == 0) entonces
+               << numero1
+          Fin Si
+          numero1 <--- numero1 + 1
+     Fin_Mientras
+Fin";138
+478;0;"Inicio 
+     (numero1, i[1-n])
+     numero1 <--- 10 
+     Mientras numero1 <= 10 hacer 
+          Si ((numero1 % 2) == 0) entonces
+               << numero1
+          Fin Si
+          numero1 <--- numero1 + 1
+     Fin_Mientras
+Fin";138
+479;0;"Inicio 
+     (numero1, i[1-n])
+     numero1 <--- 1 
+     Mientras numero1 >= 10 hacer 
+          Si ((numero1 % 2) == 0) entonces
+               << numero1
+          Fin Si
+          numero1 <--- numero1 - 1
+     Fin_Mientras
+Fin";138
+480;1;Eliminar la línea 6;139
+481;0;En la línea 6 cambiar por: numero1 <-- numero1 + 20;139
+482;0;En la línea 4 cambiar por: Mientras numero1 <= 0 Entonces;139
+483;0;En la línea 6 cambiar por: numero1 <-- numero1 -1;139
+484;1;"n <--- 1
+suma <--- 0 
+Mientras n <= 10 hacer 
+     Si ((n % 2) <> 0) entonces
+          << n
+          suma <--- suma + n
+     Fin Si
+     n <--- n + 1
+Fin_Mientras
+<< suma";140
+485;0;"n <--- 1
+suma <--- 0 
+Mientras n <= 10 hacer 
+     Si ((n % 2) == 0) entonces
+          suma <--- suma + n
+     Fin Si
+Fin_Mientras
+<< suma";140
+486;0;"n <--- 1
+suma <--- 0 
+Mientras n <= 10 hacer 
+     Si ((n % 2) <> 0) entonces
+          suma <--- suma + n
+     Fin Si
+     n <--- n + 1
+Fin_Mientras
+<< suma";140
+487;0;"""n <--- 1
+suma <--- 0 
+Mientras n >= 10 hacer 
+     Si ((n % 2) == 0) entonces
+          suma <--- suma - n
+     Fin Si
+Fin_Mientras
+<< suma""";140
+488;1;Ciclo repetitivo;141
+489;0;Selección;141
+490;0;Secuencia;141
+491;0;Inicialización;141
+492;1;“El tres es mayor que cinco” de forma indefinida;142
+493;0;Proceso terminado;142
+494;0;“El tres es mayor que cinco” una sola vez;142
+495;0;“El tres es mayor que cinco” dos veces;142
+496;1;2;143
+497;0;3;143
+498;0;1;143
+499;0;0;143
+500;1;Ciclo repetitivo;144
+501;0;Selección;144
+502;0;Secuencia;144
+503;0;Inicialización;144
+504;1;Acumuladora;145
+505;0;Final;145
+506;0;Sumaria;145
+507;0;Auxiliar;145
+508;1;Elemento ;146
+509;0;Subíndice;146
+510;0;Contador;146
+511;0;Acumulador;146
+512;1;"Para (i <-- 1, n, 1) entonces
+     Para (j<-- 1, n, 1) entonces
+          << A[i, j] 
+     Fin_Para
+Fin_Para";147
+513;0;"i <-- 1
+Para (j<-- 1, n, 1) entonces
+     A[i, j] <-- 0
+Fin_Para";147
+514;0;"Para (i <-- 1, n, 1) entonces
+     j<-- 1
+     << A[i, j] 
+Fin_Para";147
+515;0;"Para (j<-- 1, n, 1) entonces
+     A[i, j] <-- 0
+Fin_Para
+i <--1";147
+516;1;" 
+i<--1
+Mientras i<=100 Hacer
+    << ""Venta ingresada en posición ""+i+"" es: ""+ venta(i)
+    i <-- i + 1
+Fin Mientras";148
+517;0;"
+i<--1
+Mientras i<=100 Hacer
+    << ""Venta ingresada en posición ""+i+"" es: ""+ venta(i)
+Fin Mientras    ";148
+518;0;" i<--1
+Mientras i<100 Hacer
+    << ""Venta ingresada en posición ""+i+"" es: ""+ venta(i)
+    i <-- i + 1
+Fin Mientras";148
+519;0;"
+i<--0
+Mientras i>=100 Hacer
+    << """"Venta ingresada en posición """"+i+"""" es: """"+ venta(i)
+    i <-- i + 1
+Fin Mientras";148
+520;1;35.1;149
+521;0;34.6;149
+522;0;30.2;149
+523;0;31.6;149
+524;1;(evalDistancia[10], d[0-20]);150
+525;0;(evalDistancia, d[0-20]);150
+526;0;(evalDistancia[10], i[0-20]);150
+527;0;(evalDistancia[10], x(3);150
+528;1;Los arreglos son variables que permiten asociar, a  través de un mismo nombre de variable, varias posiciones de memoria.;151
+529;0;Los arreglos son variables que permiten asociar, a  través de un mismo nombre de variable, una sola posición de memoria.;151
+530;0;Los arreglos son estructuras selectivas que permiten asociar, a  través de un mismo nombre de estructura, una sola posición de memoria;151
+531;0;Los arreglos son estrcturas repetitivas que permiten realizar varias interacciones de un grupo de instrucciones;151
+532;1;Gasto[4]<-- 10;152
+533;0;Gasto[1]<-- 10;152
+534;0;Gasto[3]<-- 10;152
+535;0;Gasto[2]<-- 10;152
+536;1;Arreglo unidimensional;153
+537;0;Arreglo bidimensional;153
+538;0;Arreglo multidimensional;153
+539;0;Ninguna de las anteriores;153
+540;1;"Para (i <-- 1, n, 1) entonces
+     Para (j<-- 1, n, 1) entonces
+          << A[i, j] 
+     Fin_Para
+Fin_Para";154
+541;0;"i <-- 1
+Para (j<-- 1, n, 1) entonces
+     A[i, j] <-- 0
+Fin_Para";154
+542;0;"Para (i <-- 1, n, 1) entonces
+     j<-- 1
+     << A[i, j] 
+Fin_Para";154
+543;0;"Para (j<-- 1, n, 1) entonces
+     A[i, j] <-- 0
+Fin_Para
+i <--1";154
+544;1;(lista(10),i[{1-1000},!{5,10,15,....}];155
+545;0;(lista(6),i[{1-1000},!{5,10,15,....}];155
+546;0;(lista(10),b[{1-1000},!{5,10,15,....}];155
+547;0;(lista(5),d[{1-1000},!{5,10,15,....}];155
+548;1;A (50, 50), i [1 – n];156
+549;0;A (50), i [1 – n];156
+550;0;A (50, 50);156
+551;0;A, i[1-n];156
+552;1;Calcula la suma de dos matrices;157
+553;0;Calcula la suma de dos arreglos;157
+554;0;Calcula la multiplicación de dos matrices;157
+555;0;Calcula la suma de los elementos de la misma matríz;157
+556;1;2, 6, 12, 20, 30;158
+557;0;2, 6, 8, 10, 12;158
+558;0;2, 6, 10, 12, 16;158
+559;0;2, 4, 6, 8, 10;158
+560;0;Una variable;159
+561;0;Una constante numérica;159
+562;0;Un carácter;159
+563;0;No es necesario utilizar índices;159
+564;1;Un arreglo tiene un tamaño fijo, mientras que una matriz puede cambiar de tamaño dinámicamente.;160
+565;0;Un arreglo solo puede almacenar elementos numéricos.;160
+566;0;Un arreglo puede tener múltiples dimensiones, mientras que una matriz tiene solo una dimensión.;160
+567;0;Un arreglo solo puede contener elementos del mismo tipo, mientras que una matriz puede contener diferentes tipos de elementos.;160
+568;0;Autodisciplina, Claridad en los objetivos de aprendizaje, disponibilidad;161
+569;0;Herramientas usadas, disponibilidad, estilos de aprendizaje;161
+570;1;Claridad de los objetivos de aprendizaje, conocer sus propios estilos de aprendizaje, responsabilidad personal.;161
+571;0;Ambiente de estudio, disponibilidad, herramientas utilizadas;161
+572;0;Intervención pedagógica externa;162
+573;0;Intervención docente;162
+574;1;Intervención de la propia persona;162
+575;0;Intervención de administrador de la plataforma;162
+576;0;Variables personales;163
+577;1;Variables ambientales;163
+578;0;Variables de la tarea;163
+579;0;Variables de los recursos educativos;163
+580;0;1. metas de estudio, 2. objetivos de aprendizaje, 3. tabla temporal, 4. estrategias para lograr objetivos, 5. desarrollar el plan de estudio;164
+581;1;1.  objetivos de aprendizaje, 2. estrategias para lograr objetivos, 3. tabla temporal, 4. desarrollar el plan de estudio, 5. metas de estudio.;164
+582;0;1. metas de estudio, 2. objetivos de aprendizaje, 3.  estrategias para lograr objetivos, 4. tabla temporal, 5. desarrollar el plan de estudio.;164
+583;0;1. tabla temporal, 2. objetivos de aprendizaje, 3. metas de estudio,  4. desarrollar el plan de estudio, 5. estrategias para lograr objetivos;164
+584;0;Reflexivo;165
+585;1;Pragmático;165
+586;0;Teórico;165
+587;0;Cognoscitivo;165
+588;1;Activo;166
+589;0;Reflexivo;166
+590;0;Teórico;166
+591;0;Cognoscitivo;166
+592;0;Revisar un tutorial en video y luego hacer un esquema;167
+593;1;Estudiar en grupo haciendo pequeños programas ejemplo;167
+594;0;Revisar un podcast del tema y hacer un resumen;167
+595;0;Preguntar al profesor;167
+596;0;Revisar un tutorial en video y luego hacer un esquema;168
+597;1;Trabajar colaborativamente y realizar debates;168
+598;0;Revisar un podcast del tema y hacer un resumen;168
+599;0;Preguntar al profesor;168
+600;0;Un espacio con un escritorio amplio, situado en un lugar con poca iluminación;169
+601;1;Un espacio con un escritorio amplio, situado en un lugar bien iluminado.;169
+602;0;Un espacio con escritorio  pequeño, situado en un lugar bien iluminado.;169
+603;0;Estudiar en una cafetería;169
+604;0;Edad;170
+605;1;Los mecanismos de interacción;170
+606;0;La situación geográfica;170
+607;0;Los recursos de aprendizaje;170
+608;0;Nivel básico de lectura centrado en las ideas y la información que está explícitamente expuesta en el texto.;171
+609;1;Proceso de elaborar un significado al aprender las ideas relevantes de un texto.;171
+610;0;La lectura implícita del texto y requiere un alto grado de abstracción por parte del lector.;171
+611;0;La lectura rápida que ubica la información relevante del texto;171
+612;0;Síntesis;172
+613;0;Ensayo;172
+614;1;Mapas mentales;172
+615;0;Mapas conceptuales;172
+616;1;Síntesis;173
+617;0;Ensayo;173
+618;0;Mapa mental;173
+619;0;Reseña;173
+620;0;Síntesis;174
+621;0;Mapa mental;174
+622;1;Ensayo;174
+623;0;Verso;174
+624;0;Establecer un propósito al leer, Identificar la idea principal de cada párrafo, organizar la información, hacer una revisión previa del texto, organizar la información y tomar notas al margen del texto o en un papel aparte.;175
+625;1;Establecer un propósito al leer, hacer una revisión previa del texto, Identificar la idea principal de cada párrafo, tomar notas al margen del texto o en un papel aparte y organizar la información.;175
+626;0;Hacer una revisión previa del texto, Identificar la idea principal de cada párrafo, tomar notas al margen del texto o en un papel aparte y organizar la información.;175
+627;0;n/a;175
+628;1;Un cuadro sinóptico es otra forma de resumen de conceptos;176
+629;0;El resumen y cuadro sinóptico usan llaves para categorizar conceptos;176
+630;0; El resumen y el cuadro sinóptico representan jerarquías de conceptos;176
+631;0;El resumen y el cuadro sinóptico solo representan ideas complementarias ;176
+632;0; Paráfrasis mecánica;177
+633;1;Paráfrasis constructiva;177
+634;0;No hay una paráfrasis;177
+635;0;Ambos tipos de paráfrasis;177
+636;0;Cambian palabras por sinónimos;178
+637;0;Mantienen en la nueva frase palabras similares;178
+638;1;La transformación de la frase en una nueva versión con igual significado;178
+639;0;No tienen ninguna semejanza entre sí;178
+640;1; En el nivel de comprensión literal se infieren motivaciones o posibilidades;179
+641;0;En el nivel de comprensión inferencial se inducen significados;179
+642;0; En el nivel de comprensión crítico se hacen juicios de valor;179
+643;0;En el nivel de comprensión literal se dan opiniones sobre ideas clave;179
+644;0;Las técnicas de estudio son específicas para cada área de conocimiento.;180
+645;1;Las técnicas de estudio se pueden aplicar a casi cualquier área de conocimiento.;180
+646;0;Las técnicas de estudio se aprenden en periodos largos de tiempo.;180
+647;0;Las técnicas de estudio solo se aplican en actividades de estudio;180
+648;1;"Técnica de análisis situacional 
+ ";181
+649;0;Técnica de análisis estadístico ;181
+650;0;Técnica de análisis predictivo;181
+651;0;Técnica de análisis sintético;181
+652;0;Las hojas a las conclusiones;182
+653;1;Las hojas a los efectos;182
+654;0;Las hojas a las predicciones;182
+655;0;Las hojas a las suposiciones;182
+656;0;Un manual de usuario ;183
+657;0;Un informe técnico ;183
+658;1;Un cartel publicitario ;183
+659;0;Un bosquejo;183
+660;1;En forma de Z desde la esquina superior izquierda ;184
+661;0;En forma de Z desde la esquina inferior izquierda ;184
+662;0;En forma de Z desde la esquina superior derecha ;184
+663;0;En forma de Z de abajo hacia arriba;184
+664;1;Se debe hacer una síntesis de la investigación, considerando los elementos destacables ;185
+665;0;Se debe hacer un resumen de la investigación, considerando las generalidades del tema ;185
+666;0;Se debe hacer una síntesis de la investigación, considerando objetivo y resultados  ;185
+667;0;Se debe hacer una resumen de la investigación, considerando solo las referencias;185
+668;1; Hechos relevantes presentados en combinaciones adecuadas de elementos de diseño ;186
+669;0;Hechos comunes presentados en combinaciones básicas de elementos de diseño ;186
+670;0;Hechos relevantes presentados en combinaciones tradicionales de elementos de diseño ;186
+671;0;Hechos relevantes presentados en largos bloques de texto;186
+672;1;El póster presenta la información de una forma novedosa y actual ;187
+673;0;El póster presenta la información de una forma tradicional y flexible ;187
+674;0;El póster presenta la información de una forma novedosa y tradicional ;187
+675;0;n/a;187
+676;1;Una buena dicción contribuye a la claridad del mensaje ;188
+677;0;Una buena dicción contribuye al volumen del mensaje ;188
+678;0;Una buena dicción contribuye a la coherencia del mensaje ;188
+679;0;Una buena dicción contribuye a la buena imagen del orador;188
+680;1;La fluidez adecuada del discurso aporta a la coherencia del mensaje ;189
+681;0;La fluidez adecuada del discurso aporta a la emotividad del mensaje ;189
+682;0;La fluidez adecuada del discurso aporta al volumen del mensaje ;189
+683;0;La fluidez adecuada del discurso aporta la predisposición del público;189
+684;1;El exceso de gesticulaciones disminuye la coherencia del mensaje ;190
+685;0;El exceso de gesticulaciones aumenta la fluidez del discurso ;190
+686;0;El exceso de gesticulaciones aumenta el volumen del discurso ;190
+687;0;el exceso de gesticulaciones aumenta la comprensión del discurso;190
+688;1;La satisfacción de las necesidades del público sobre el tema de la presentación;191
+689;0; La satisfacción de las necesidades del expositor sobre el tema de la presentación;191
+690;0; La satisfacción de las necesidades de terceros sobre el tema de la presentación;191
+691;0;La satisfacción de las necesidades del público sobre temas fuera de la presentación;191
+692;1;Tomar decisiones sobre recursos, plantillas y herramientas;192
+693;0;Justificar el aporte de la idea y los ejemplos;192
+694;0;Solicitar asesoría en el discurso;192
+695;0;Conocer el lugar de la presentación;192
+696;1;Visualización, proyección y diseño;193
+697;0;Práctica, simulación, asesoría;193
+698;0;Entrega, logística y resultados;193
+699;0;Simulación, proyección y asesoría;193
+700;1;Plano etérico;194
+701;0;Plano mental;194
+702;0;Plano físico;194
+703;0;Plano psicológico;194
+704;1; Identificar los distintos niveles de importancia dentro de la diapositiva;195
+705;0;Confundir al lector, cuando hay más colores de los necesarios;195
+706;0;Confundir al lector, cuando se usan los mismos colores de fondo y texto;195
+707;0;Organizar los temas sin ningún nivel de importancia;195
+708;1;La presentación debe ser dinámica, aportando ideas claves y concretas;196
+709;0;La presentación debe ser tradicional, con generalidades antes de las ideas clave;196
+710;0;La presentación debe usar en su mayoría lenguaje complejo y tecnicismos;196
+711;0;La presentación omite elementos importantes sobre el tema;196
+712;1;Escribir el discurso y repasarlo hasta lograr la interiorización del mensaje;197
+713;0;Improvisar un discurso y hacer los cortes necesarios;197
+714;0;Escribir el discurso y leerlo mientras se realiza la grabación;197
+715;0;Obviar los repasos del diálogo y pasar a la grabación;197
+716;1;Plano emocional;198
+717;0;Plano etérico;198
+718;0;Plano físico;198
+719;0;Plano psicológico;198
+720;1;Plano mental;199
+721;0;Plano físico;199
+722;0;Plano emocional;199
+723;0;Plano etérico;199
+724;1;Plano físico;200
+725;0;Plano etérico;200
+726;0;Plano mental;200
+727;0;Plano emocional;200
