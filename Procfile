@@ -1,1 +1,1 @@
-python manage.py migrate && gunicorn Aplicativo.wsgi
+python manage.py runserver && gunicorn Aplicativo.wsgi
